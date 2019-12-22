@@ -1,0 +1,15 @@
+HR { TEXT-ALIGN: left}
+BODY { FONT: 10pt verdana; COLOR: black; BACKGROUND-COLOR: white }
+BODY DIV { FONT: small tahoma, verdana }
+H1 { FONT-SIZE: 20pt }
+H2 { FONT-SIZE: medium }
+H4 { FONT-SIZE: small }
+H5 { FONT-WEIGHT: 100; FONT-SIZE: small }
+H6 { FONT-WEIGHT: 600; FONT-SIZE: x-small; COLOR: darkblue }
+P { font:Verdana, Arial, Sans Serif; font-size:10pt; }
+TD { FONT: 10pt verdana }
+A:hover { COLOR: red }
+INPUT.gdnbutton {
+	BORDER-RIGHT: #336699 1px solid; BORDER-TOP: #99ccff 1px solid; FONT-WEIGHT: bold; FONT-SIZE: xx-small; BORDER-LEFT: #99ccff 1px solid; CURSOR: hand; COLOR: #ffffff; BORDER-BOTTOM: #336699 1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #3399ff; TEXT-DECORATION: none
+}
+IMG { BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; BORDER-TOP-COLOR: black; BORDER-RIGHT-COLOR: black }
