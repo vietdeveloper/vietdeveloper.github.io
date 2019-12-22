@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cybersecurity</title>
+    <style type="text/css">
+        html {
+            background-color: #000000;
+            font-size: 12px;
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            width: 600px;
+            margin: 2% auto;
+            background-color: #FF9500;
+            padding: 0 20px 20px 20px;
+            border: 5px solid black;
+        }
+
+        h1 {
+            font-size: 60px;
+            text-align: center;
+            margin: 0;
+            padding: 20px 0;
+            color: #00539F;
+            text-shadow: 3px 3px 1px black;
+        }
+
+        a img {
+            border: none;
+        }
+
+        /* 2019-11-14 https://stackoverflow.com/questions/51173595/how-to-highlight-selected-text-using-css */
+        ::-moz-selection {
+            /* Code for Firefox */
+            color: red;
+            background: yellow;
+        }
+
+        ::selection {
+            color: red;
+            background: yellow;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Cybersecurity</h1>
+    <div id="quote">Words of Wisdom</div>
+    <p>
+        <script>document.write(Date())</script>
+    </p>
+    <ul>
+        <li><a href="https://architectsecurity.org/blog/" target="_blank">architectsecurity.org</a></li>
+        <li><a href="https://blog.knowbe4.com/another-home-buyer-falls-victim-to-an-email-scam " target="_blank">blog.knowbe4.com</a></li>
+        <li><a href="https://danielmiessler.com/information-security/" target="_blank">danielmiessler.com</a></li>
+        <li><a href="https://heimdalsecurity.com/blog/best-internet-security-blogs/" target="_blank">heimdalsecurity.com</a></li>
+        <li><a href="https://krebsonsecurity.com/" target="_blank">krebsonsecurity.com</a></li>
+        <li><a href="https://nakedsecurity.sophos.com/" target="_blank">nakedsecurity.sophos.com</a></li>
+        <li><a href="https://onlinedegrees.sandiego.edu/top-cyber-security-blogs-websites/" target="_blank">onlinedegrees.sandiego.edu</a></li>
+        <li><a href="https://securityweekly.com/" target="_blank">securityweekly.com</a></li>
+        <li><a href="https://thehackernews.com/" target="_blank">thehackernews.com</a></li>
+        <li><a href="https://threatpost.com/" target="_blank">threatpost.com</a></li>
+        <li><a href="https://twitter.com/hashtag/cybersecurity" target="_blank">twitter.com/hashtag/cybersecurity</a></li>
+        <li><a href="https://www.csoonline.com/" target="_blank">csoonline.com</a></li>
+        <li><a href="https://www.darkreading.com/" target="_blank">darkreading.com</a></li>
+        <li><a href="https://www.grahamcluley.com/" target="_blank">grahamcluley.com</a></li>
+        <li><a href="https://www.schneier.com/blog/archives/2016/03/data_is_a_toxic.html" target="_blank">Data is a toxic</a></li>
+        <li><a href="https://www.securityweek.com/" target="_blank">securityweek.com</a></li>
+
+        <li><a href="https://www.nist.gov/topics/cybersecurity" target="_blank">nist.gov cybersecurity</a></li>
+        <li><a href="https://www.isaca.org/Knowledge-Center/cobit/Pages/Overview.aspx" target="_blank">isaca.org cobit</a></li>
+        <li><a href="https://www.sans.org/security-resources/" target="_blank">sans.org</a></li>
+    </ul>
+    <script type="text/javascript">
+        var aQuotes = [];
+        aQuotes.push("But Peter said to him, “May your money perish with you, because you thought that you could buy the gift of God with money.” (Acts 8:20 NABRE)");
+        aQuotes.push("For the love of money is the root of all evils, and some people in their desire for it have strayed from the faith and have pierced themselves with many pains. (1 Timothy 6:10 NABRE)");
+        aQuotes.push("For where your treasure is, there also will your heart be. (Matthew 6:21 NABRE)");
+        aQuotes.push("Honor the LORD with your wealth, with first fruits of all your produce; (Proverbs 3:9 NABRE)");
+        aQuotes.push("If anyone was unwilling to work, neither should that one eat. (2 Thessalonians 3:7 NABRE)");
+        aQuotes.push("Let your life be free from love of money but be content with what you have, for he has said, “I will never forsake you or abandon you.” (Hebrews 13:5 NABRE)");
+        aQuotes.push("No servant can serve two masters. He will either hate one and love the other, or be devoted to one and despise the other. You cannot serve God and mammon.” (Luke 16:13 NABRE)");
+        aQuotes.push("The covetous are never satisfied with money, nor lovers of wealth with their gain; so this too is vanity. (Ecclesiastes 5:9 NABRE)");
+        aQuotes.push("The slack hand impoverishes, but the busy hand brings riches. (Proverbs 10:4 NABRE)");
+        aQuotes.push("Wealth won quickly dwindles away, but gathered little by little, it grows (Proverbs 13:11 NABRE)");
+        function getRandomInt(max) {
+            return Math.floor(Math.random() * Math.floor(max));
+        }
+        // Use let will make quote not display on IE9 due to scope.
+        // let i = getRandomInt(aQuotes.length - 1);
+        // document.getElementById('quote').innerHTML = aQuotes[i];
+        document.getElementById('quote').innerHTML = aQuotes[getRandomInt(aQuotes.length - 1)];
+    </script>
+
+</body>
+<!-- Last updated: 2019-12-07 -->
+
+</html>
