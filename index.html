@@ -19,10 +19,33 @@
             Welcome
         </h1>
     </header>
-    <div id="ad1" align="center">
-        <script type="text/javascript" src="js/getrandomquotes.js"></script>
-        <script>getRandomQuotes();</script>
-    </div>
+    <div id="Word" align="center">Words of Wisdom</div>
+    <script type="text/javascript">
+        function getRandomInt(max) {
+            return Math.floor(Math.random() * Math.floor(max));
+        }
+        var aBibles = [];
+		aBibles.push("Do not be afraid, Mary, for you have found favor with God. (Luke 1:30)");
+		aBibles.push("He said to them, “Come after me, and I will make you fishers of men.” At once they left their nets and followed him. (Matthew 4:19-20)");
+        aBibles.push("Blessed is the man who does not walk in the counsel of the wicked, Nor stand in the way of sinners, nor sit in company with scoffers. (Psalms 1:1)");
+        aBibles.push("Jesus answered him, “Why do you call me good? No one is good but God alone.” (Mark 10:18)");
+        aBibles.push("“Blessed are they who hope in the Lord.” (Ps 40:5a)");
+        aBibles.push("“Blessed the man who sets his security in the LORD, who turns not to the arrogant or to those who stray after falsehood.” (Psalms 40:5)");
+        aBibles.push("“By no means! But I tell you, if you do not repent, you will all perish as they did!” (Luke 13:3)");
+        aBibles.push("“By your perseverance you will secure your lives.” (Luke 21:19)");
+        aBibles.push("“Cast all your worries upon him because he cares for you.” (1 Peter 5:7)");
+        aBibles.push("“Do not work for food that perishes but for the food that endures for eternal life” (John 6:27)");
+        aBibles.push("“Do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.” (Matthew 6:34)");
+        aBibles.push("“For I know well the plans I have in mind for you ― oracle of the LORD ― plans for your welfare and not for woe, so as to give you a future of hope.” (Jeremiah 29:11)");
+        aBibles.push("“Give thanks to the LORD for he is good, his mercy endures forever!” (Psalms 107:1, Ps 136:1)");
+        aBibles.push("“In all circumstances give thanks, for this is the will of God for you in Christ Jesus.” (1 Thessalonians 5:18)");
+        aBibles.push("“It is better to take refuge in the LORD than to put confidence in princes.” (Psalm 118:9, RSV-CE) ");
+        aBibles.push("“Lord, you are merciful and gracious.” (Psalms 86:15)");
+        aBibles.push("“Pray always without becoming weary” (Luke 18:1, NABRE)");
+        aBibles.push("“They celebrate your abounding goodness and joyfully sing of your justice.” (Psalms 145:7)");
+        aBibles.push("“Trust in God, and he will help you; make your ways straight and hope in him.” (Sirach 2:6 NABRE)");
+        document.getElementById('Word').innerHTML = aBibles[getRandomInt(aBibles.length - 1)];
+    </script>
     <div id="body">
         <div style="text-align: center">
         <p></p><a href="technology.html">Technoloy Resources</a></p>
@@ -31,6 +54,8 @@
     </div>
     <footer>
         <div style="text-align: center">
+            <script type="text/javascript" src="js/getrandomquotes.js"></script>
+            <script>getRandomQuotes();</script>
             <script>
                 document.write("The current time is " + Date() + "<br/>");
                 document.write("You are using " + navigator.appName + " " + navigator.appVersion + "<br/>");
