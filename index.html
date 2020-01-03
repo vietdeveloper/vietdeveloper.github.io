@@ -74,7 +74,13 @@
         <p></p><a href="cs.html">Cybersecurity Resources</a></p>
         </div>
     </div>
-    <footer>
+            <script type="application/javascript">
+            function getIP(json){
+              document.write(json.ip); // alerts the ip address
+            }
+				document.write("<br>");
+            </script>			
+			<script src="http://api.ipify.org?format=jsonp&callback=getIP"></script>    <footer>
         <div style="text-align: center">
             <script type="text/javascript" src="js/getrandomquotes.js"></script>
             <script>getRandomQuotes();</script>
@@ -84,12 +90,6 @@
                 document.write("Last updated: " + document.lastModified + "<br/>");
             </script>
             <!-- http://stackoverflow.com/questions/102605/can-i-lookup-the-ip-address-of-a-hostname-from-javascript -->
-            <script type="application/javascript">
-            function getIP(json){
-              document.write(json.ip); // alerts the ip address
-            }
-            </script>			
-			<script src="http://api.ipify.org?format=jsonp&callback=getIP"></script>
         </div>
     </footer>
 </body>
