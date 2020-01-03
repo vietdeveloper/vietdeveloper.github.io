@@ -95,6 +95,13 @@
                 document.write("Last updated: " + document.lastModified + "<br/>");
             </script>
             <!-- http://stackoverflow.com/questions/102605/can-i-lookup-the-ip-address-of-a-hostname-from-javascript -->
+
+            <script>
+                function getIP(json) {
+                    document.write("My public IP address is: " + json.ip);
+                }
+            </script>
+            <script src="http://api.ipify.org?format=jsonp&callback=getIP"></script>
         </div>
     </footer>
 </body>
