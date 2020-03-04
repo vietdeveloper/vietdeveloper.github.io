@@ -14,7 +14,7 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
     <meta name="robots" content="index, nofollow">
-    <!-- Last updated: 2020-01-29</i></b> (2013-10-19) -->
+    <!-- Last updated: 2020-03-03 (2013-10-19) -->
 </head>
 
 <body>
@@ -24,18 +24,55 @@
         </h1>
     </header>
     <div id="Word" align="center">
-    <script type="text/javascript" src="js/getRandomBibleVerse.js"></script>
-    <script>getRandomBibleVerse();</script>
-    Words of Wisdom<br>
+        <script type="text/javascript" src="js/getRandomBibleVerse.js"></script>
+        <script>getRandomBibleVerse();</script>
     </div>
     <div id="body">
         <div style="text-align: center">
-            <p></p><a href="technology.html">Technology Resources</a></p>
-            <p></p><a href="cs.html">Cybersecurity Resources</a></p>
+            <br>
+            <a href="technology.html">Technology Resources</a><br>
+            <a href="cs.html">Cybersecurity Resources</a><br>
+            <script type="text/javascript">
+                function getRandomInt(max) {
+                    return Math.floor(Math.random() * Math.floor(max));
+                }
+
+                // 2020-03-03 Fictitious name for testing. Ref vl20190918RandomChoice.py and viet-test-data.txt
+                var aFNames = ['Test', 'Sample', 'Example', 'Demo'];
+                var aGreekChars = ['Alpha', 'Beta', 'Gamma', 'Delta', 'Epsilon', 'Zeta', 'Eta', 'Theta', 'Iota', 'Kappa', 'Lambda', 'Mu', 'Omega'];
+                var aGreekMyths = ['ZEUS', 'Hera', 'Poseidon', 'Demeter', 'Athena', 'Apollo', 'Artemis', 'Ares', 'Aphrodite', 'Hephaestus', 'Hermes', 'Hestia'];
+                var aPlanets = ['Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune'];
+                var aLName = aGreekChars.concat(aPlanets);
+                var aStreets = ['Road', 'Street', 'Avenue', 'Parkway', 'Blvd.'];
+                var aSBCities = ['Chino Hills, CA 91709', 'Rancho Cucamonga, CA 91701', 'Chino, CA 91708', 'Grand Terrace, CA 92313', 'Redlands, CA 92373', 'Fontana, CA 92335', 'Loma Linda, CA 92350', 'Yucapa, CA 92399', 'Upland, CA 91786', 'Ontario, CA 91761', 'Rialto, CA 92376', 'Montclair, CA 91763', 'Victorville, CA 92392', 'San Bernardino, CA 92401'];
+
+                document.write("<br><br>");
+                document.write(aFNames[getRandomInt(aFNames.length - 1)] + " " + aGreekChars[getRandomInt(aGreekChars.length - 1)] + " " + aPlanets[getRandomInt(aPlanets.length - 1)]);
+                document.write("<br>");
+                document.write(getRandomInt(9999) + ' ' + aGreekMyths[getRandomInt(aGreekMyths.length - 1)] + ' ' + aStreets[getRandomInt(aStreets.length - 1)]);
+                document.write(", ");
+                document.write(aSBCities[getRandomInt(aSBCities.length - 1)]);
+                document.write("<br>");
+                document.write((100 + getRandomInt(899)) + "-555-" + getRandomInt(9999).toString().padStart(4, '0'));
+                document.write("<br>");
+                // https://stackoverflow.com/questions/1349404/generate-random-string-characters-in-javascript
+                function makeid(length) {
+                    var result = '';
+                    var characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+                    var charactersLength = characters.length;
+                    for (var i = 0; i < length; i++) {
+                        result += characters.charAt(Math.floor(Math.random() * charactersLength));
+                    }
+                    return result;
+                }
+                document.write(makeid(16));
+            </script>
         </div>
     </div>
+    <br>
     <footer>
         <div style="text-align: center">
+            * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *		
             <script type="text/javascript" src="js/getrandomquotes.js"></script>
             <script>getRandomQuotes();</script>
             <br>
