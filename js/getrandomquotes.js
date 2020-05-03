@@ -1,7 +1,5 @@
 // 2014-07-26
-// 2018-01-18
-// 2019-11-11
-// 2020-01-29
+// 2020-03-05T1129
 var aQuotes = new Array ();
 aQuotes.push("<p>“<b><i>So be perfect, just as your heavenly Father is perfect.</i></b>” (Matthew 5:48)</p>");
 aQuotes.push("<p>“<b><i>By no means! But I tell you, if you do not repent, you will all perish as they did!</i></b>” (Luke 13:3, NABRE)</p>");
@@ -255,6 +253,7 @@ aQuotes.push("“You’ve gotta keep control of your time, and you can’t unles
 aQuotes.push("“Aim for the highest; never enter a bar-room; do not touch liquor, or if at all only at meals; never speculate; never indorse beyond your surplus cash fund; make the firm’s interest yours; break orders always to save owners; concentrate; put all your eggs in one basket, and watch that basket; expenditure always within revenue; lastly, be not impatient.” ― Andrew Carnegie, The Road to Business Success");
 aQuotes.push("“Do nothing, say nothing, and be nothing, and you’ll never be criticized.” ― Elbert Hubbard. Selected Writings of Elbert Hubbard: Olympians (1922), p. 335 https://books.google.com/books?id=Iw5EAQAAMAAJ&pg=PA335 (Misattributed to Aristotle)");
 aQuotes.push("“He picked up the lemons that Fate had sent him and started a lemonade-stand.” ― Elbert Hubbard. Selected Writings of Elbert Hubbard: His Mintage of Wisdom, Coined from a Life of Love, Laughter and Work, Volume 5, p. 237 https://books.google.com/books?id=-FxIAAAAYAAJ&pg=PA237");
+aQuotes.push("“There were four things from which the Master was entirely free. He had no foregone conclusions, no arbitrary predeterminations, no obstinacy, and no egoism. (Confucius. The Analects. Translated by James Legge 1861. [9.4] https://www.gutenberg.org/ebooks/3330)");
 
 aQuotes.push(`“Quân tử vô sở tranh. Người quân tử không ganh đua với ai.” — Khổng Tử. Luận Ngữ. Nguyễn Hiến Lê dịch, 3.7.`);
 aQuotes.push(`“A gentleman never competes in anything he does” ― Confucius. The Analects. Translated by Ku Hung Ming in "The Discourses and Sayings of Confucius", 1898, 3.7.`);
