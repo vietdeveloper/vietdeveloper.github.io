@@ -1,4 +1,4 @@
-// 2020-05-03T1134
+// 2020-05-10T0819
 var aBibles = [];
 
 aBibles.push("<p>“<b><i>And do not be afraid of those who kill the body but cannot kill the soul; rather, be afraid of the one who can destroy both soul and body in Gehenna.</i></b>” (Matthew 10:28 http://www.usccb.org/bible/mt/10:28)</p>");
@@ -37,7 +37,8 @@ aBibles.push("<p>“<b><i>It is better to take refuge in the LORD than to put co
 aBibles.push("<p>“<b><i>Jesus answered him, “Why do you call me good? No one is good but God alone.</i></b>” (Mark 10:18)</p>");
 aBibles.push("<p>“<b><i>Jesus said to the crowd, “Take care to guard against all greed, for though one may be rich, one’s life does not consist of possessions.</i></b>” (Luke 12:15)</p>");
 aBibles.push("<p>“<b><i>Know this, my dear brothers and sisters: everyone should be quick to hear, slow to speak, slow to anger.</i></b>” (James 1:19)</p>");
-aBibles.push("<p>“<b><i>Let not your heart be troubled. You believe in God, believe also in me.” </i></b>” (John 14:1. Douay-Rheims)</p>");
+aBibles.push("<p>“<b><i>Let not your heart be troubled. You believe in God, believe also in me.”</i></b> (John 14:1 Douay-Rheims)</p>");
+aBibles.push("<p>“<b><i>Do not let your hearts be troubled. You have faith in God; have faith also in me.”</i></b> (John 14:1 NABRE)</p>");
 aBibles.push("<p>“<b><i>Let the peace of Christ control your hearts, the peace into which you were also called in one body. And be thankful.</i></b>” (Colossians 3:15)</p>");
 aBibles.push("<p>“<b><i>Let the peace of Christ control your hearts; let the word of Christ dwell in you richly.</i></b>” (Col 3:15a, 16a</p>");
 aBibles.push("<p>“<b><i>Let the word of Christ dwell in you richly, as in all wisdom you teach and admonish one another, singing psalms, hymns, and spiritual songs with gratitude in your hearts to God.</i></b>” (Colossians 3:16)</p>");
