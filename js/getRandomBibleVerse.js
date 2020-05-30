@@ -74,6 +74,18 @@ aBibles.push("<p>“<b><i>Your faith has saved you; go in peace.</i></b>” (Luk
 aBibles.push("<p>“<b><i>Be patient, therefore, brothers, until the coming of the Lord. See how the farmer waits for the precious fruit of the earth, being patient with it until it receives the early and the late rains.</i></b>” (James 5:7 NABRE)</p>");
 aBibles.push("<p><b><i>“I say to you, whoever believes in me will do the works that I do”</i></b> (John 14:12)</p>");
 aBibles.push("<p><b><i>“For it is better to suffer for doing good, if that be the will of God, than for doing evil.”</i></b> (1 Peter 3:17)</p>");
+aBibles.push("<p><b><i>“But Peter said to him, “May your money perish with you, because you thought that you could buy the gift of God with money.”</i></b> (Acts 8:20 NABRE)</p>");
+aBibles.push("<p><b><i>“For where your treasure is, there also will your heart be.”</i></b> (Matthew 6:21 NABRE)</p>");
+aBibles.push("<p><b><i>“Honor the LORD with your wealth, with first fruits of all your produce;”</i></b> (Proverbs 3:9 NABRE)</p>");
+aBibles.push("<p><b><i>“If anyone was unwilling to work, neither should that one eat.”</i></b> (2 Thessalonians 3:7 NABRE)</p>");
+aBibles.push("<p><b><i>“Let your life be free from love of money but be content with what you have, for he has said, “I will never forsake you or abandon you.””</i></b> (Hebrews 13:5 NABRE)</p>");
+aBibles.push("<p><b><i>“No servant can serve two masters. He will either hate one and love the other, or be devoted to one and despise the other. You cannot serve God and mammon.”</i></b> (Luke 16:13 NABRE)</p>");
+aBibles.push("<p><b><i>“Owe nothing to anyone, except to love one another; for the one who loves another has fulfilled the law.”</i></b> (Romans 13:8)</p>");
+aBibles.push("<p><b><i>“The covetous are never satisfied with money, nor lovers of wealth with their gain; so this too is vanity.”</i></b> (Ecclesiastes 5:9 NABRE)</p>");
+aBibles.push("<p><b><i>“The slack hand impoverishes, but the busy hand brings riches.”</i></b> (Proverbs 10:4 NABRE)</p>");
+aBibles.push("<p><b><i>“Wealth won quickly dwindles away, but gathered little by little, it grows”</i></b> (Proverbs 13:11 NABRE)</p>");
+aBibles.push("<p><b><i>“By no means! But I tell you, if you do not repent, you will all perish as they did!”</i></b> (Luke 13:5)</p>");
+aBibles.push("<p><b><i>“What then shall we say to this? If God is for us, who can be against us?”</i></b> (Romans 8:31)</p>");
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
