@@ -1,5 +1,5 @@
 // 2014-07-26
-// 2020-03-05T1129
+// 2020-05-29T1701
 var aQuotes = new Array ();
 aQuotes.push("<p>“<b><i>So be perfect, just as your heavenly Father is perfect.</i></b>” (Matthew 5:48)</p>");
 aQuotes.push("<p>“<b><i>By no means! But I tell you, if you do not repent, you will all perish as they did!</i></b>” (Luke 13:3, NABRE)</p>");
@@ -178,7 +178,7 @@ aQuotes.push("<p>“<b><i>Your children are not your children. They are the sons
 aQuotes.push("<p>“<b><i>Real knowledge is to know the extent of one's ignorance.</i></b>” - Confucius</p>");
 aQuotes.push("<p>“<b><i>Our greatest joy is not in ever falling, but in rising every time we fall.</i></b>” - Confucius</p>");
 aQuotes.push("<p>“<b><i>The gem cannot be polished without friction, nor man perfected without trials.</i></b>” - Confucius</p>");
-aQuotes.push("<p>“<b><i>A superior man is modest in his speech, but exceeds in his actions.</i></b>” - Confucius</p>");
+aQuotes.push("<p>“<b><i>A superior man is modest in his speech, but exceeds in his actions.</i></b>” - Confucius. Lun Yu (The Analects). Translated by James Legge. (1861) [14.29]</p>");
 
 aQuotes.push("<p>“<b><i>Trong thiên hạ có ba cái nguy : <br>Đức ít mà được ân sủng nhiều. <br>Tài kém mà ở địa vị cao. <br>Thân không lập được công to mà hưởng bổng lộc nhiều.</i></b>” -- Hòai Nam Tử</p>");
 aQuotes.push("<p>“<b><i>Ở đời có 3 điều đáng tiếc <br>Một là việc hôm nay bỏ qua. <br>Hai là đời này chẳng học. <br>Ba là thân này lỡ hư.</i></b>” -- Chu Hi</p>");
@@ -253,7 +253,9 @@ aQuotes.push("“You’ve gotta keep control of your time, and you can’t unles
 aQuotes.push("“Aim for the highest; never enter a bar-room; do not touch liquor, or if at all only at meals; never speculate; never indorse beyond your surplus cash fund; make the firm’s interest yours; break orders always to save owners; concentrate; put all your eggs in one basket, and watch that basket; expenditure always within revenue; lastly, be not impatient.” ― Andrew Carnegie, The Road to Business Success");
 aQuotes.push("“Do nothing, say nothing, and be nothing, and you’ll never be criticized.” ― Elbert Hubbard. Selected Writings of Elbert Hubbard: Olympians (1922), p. 335 https://books.google.com/books?id=Iw5EAQAAMAAJ&pg=PA335 (Misattributed to Aristotle)");
 aQuotes.push("“He picked up the lemons that Fate had sent him and started a lemonade-stand.” ― Elbert Hubbard. Selected Writings of Elbert Hubbard: His Mintage of Wisdom, Coined from a Life of Love, Laughter and Work, Volume 5, p. 237 https://books.google.com/books?id=-FxIAAAAYAAJ&pg=PA237");
-aQuotes.push("“There were four things from which the Master was entirely free. He had no foregone conclusions, no arbitrary predeterminations, no obstinacy, and no egoism. (Confucius. The Analects. Translated by James Legge 1861. [9.4] https://www.gutenberg.org/ebooks/3330)");
+aQuotes.push("“There were four things from which the Master was entirely free. He had no foregone conclusions, no arbitrary predeterminations, no obstinacy, and no egoism.” ― Confucius. The Analects. Translated by James Legge 1861. [9.4] https://www.gutenberg.org/ebooks/3330");
+aQuotes.push("“He who is not in any particular office, has nothing to do with plans for the administration of its duties.” ― Confucius. The Analects. Translated by James Legge 1861. [14.27] http://oaks.nvg.org/analects-legge.html​");
+aQuotes.push("“Tsze-lu asked what constituted the superior man. The Master said, \"The cultivation of himself in reverential carefulness.\"” ― Confucius. The Analects. Translated by James Legge 1861. [14.45] http://oaks.nvg.org/analects-legge.html​");
 
 aQuotes.push(`“Quân tử vô sở tranh. Người quân tử không ganh đua với ai.” — Khổng Tử. Luận Ngữ. Nguyễn Hiến Lê dịch, 3.7.`);
 aQuotes.push(`“A gentleman never competes in anything he does” ― Confucius. The Analects. Translated by Ku Hung Ming in "The Discourses and Sayings of Confucius", 1898, 3.7.`);

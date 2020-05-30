@@ -1,4 +1,4 @@
-// 2020-05-10T0819
+// 2020-05-29T1701
 var aBibles = [];
 
 aBibles.push("<p>“<b><i>And do not be afraid of those who kill the body but cannot kill the soul; rather, be afraid of the one who can destroy both soul and body in Gehenna.</i></b>” (Matthew 10:28 http://www.usccb.org/bible/mt/10:28)</p>");
@@ -72,6 +72,8 @@ aBibles.push("<p>“<b><i>Vanity of vanities, says Qoheleth, vanity of vanities!
 aBibles.push("<p>“<b><i>Whatever you do, do from the heart, as for the Lord and not for others.</i></b>” (Col 3:23, NABRE)</p>");
 aBibles.push("<p>“<b><i>Your faith has saved you; go in peace.</i></b>” (Luke 7:50)</p>");
 aBibles.push("<p>“<b><i>Be patient, therefore, brothers, until the coming of the Lord. See how the farmer waits for the precious fruit of the earth, being patient with it until it receives the early and the late rains.</i></b>” (James 5:7 NABRE)</p>");
+aBibles.push("<p><b><i>“I say to you, whoever believes in me will do the works that I do”</i></b> (John 14:12)</p>");
+aBibles.push("<p><b><i>“For it is better to suffer for doing good, if that be the will of God, than for doing evil.”</i></b> (1 Peter 3:17)</p>");
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
