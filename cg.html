@@ -70,7 +70,11 @@
             <li><a href="https://www.CongGiaoVietNam.com/" target="_blank">Cong Giao Viet Nam</a></li>
         </ul>
     </article>
-    <p><center><script>document.write(Date())</script></center></p>
+    <p>
+        <center>
+            <script>document.write(Date())</script>
+        </center>
+    </p>
     <script type="text/javascript">
         var aBibles = [];
         aBibles.push("“<b><i>And do not be afraid of those who kill the body but cannot kill the soul; rather, be afraid of the one who can destroy both soul and body in Gehenna.</i></b>” (Matthew 10:28 http://www.usccb.org/bible/mt/10:28)");
@@ -166,9 +170,20 @@
         // let i = getRandomInt(aBibles.length - 1);
         // document.getElementById('quote').innerHTML = aBibles[i];
         document.getElementById('quote').innerHTML = aBibles[getRandomInt(aBibles.length - 1)];
+        
+        // 2020-06-21 https://stackoverflow.com/questions/105034/how-to-create-guid-uuid
+        function uuidv4() {
+            return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+                var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+                return v.toString(16);
+            });
+        }
+
+        document.write("<br>");
+        document.write(uuidv4());
     </script>
 
 </body>
-<!-- Last updated: 2020-05-31 (2020-05-30) -->
+<!-- Last updated: 2020-06-21 (2020-05-30) -->
 
 </html>
