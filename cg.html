@@ -72,7 +72,11 @@
     </article>
     <p>
         <center>
-            <script>document.write(Date())</script>
+            <script>
+                document.write(Date())
+                document.write("<br>");
+                document.write(uuidv4());
+            </script>
         </center>
     </p>
     <script type="text/javascript">
@@ -170,7 +174,7 @@
         // let i = getRandomInt(aBibles.length - 1);
         // document.getElementById('quote').innerHTML = aBibles[i];
         document.getElementById('quote').innerHTML = aBibles[getRandomInt(aBibles.length - 1)];
-        
+
         // 2020-06-21 https://stackoverflow.com/questions/105034/how-to-create-guid-uuid
         function uuidv4() {
             return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
@@ -179,8 +183,6 @@
             });
         }
 
-        document.write("<br>");
-        document.write(uuidv4());
     </script>
 
 </body>
