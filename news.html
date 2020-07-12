@@ -35,7 +35,8 @@
         }
     </style>
     <!-- CSS only -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous"> 
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 </head>
 
 <body>
@@ -43,34 +44,36 @@
         <script type="text/javascript" src="js/getRandomBibleVerse.js"></script>
         <script>getRandomBibleVerse();</script>
     </h1>
-    <article>
-        <ul>
-            <li><a href="https://apnews.com/" target="_blank">AP News</a></li>
-            <li><a href="https://www.bloomberg.com/" target="_blank">Bloomberg</a></li>
-            <li><a href="https://www.csmonitor.com/" target="_blank">Christian Science Monitor</a></li>
-            <li><a href="https://www.forbes.com/" target="_blank">Forbes</a></li>
-            <li><a href="https://www.investors.com/" target="_blank">Investor's Business Daily</a></li>
-            <li><a href="https://www.reuters.com/" target="_blank">Reuters</a></li>
-            <li><a href="https://www.usatoday.com/" target="_blank">USA Today</a></li>
-            <li><a href="https://www.washingtonexaminer.com/" target="_blank">Washington Examiner</a></li>
-            <li><a href="https://www.washingtontimes.com/" target="_blank">Washington Times</a></li>
-            <li><a href="https://www.wsj.com/" target="_blank">Wall Street Journal</a></li>
-        </ul>
-    </article>
-    <p align="center">
-        <script type="text/javascript">
-            document.write(Date())
-            document.write("<br>");
-            document.write(uuidv4());
-            // 2020-06-21 https://stackoverflow.com/questions/105034/how-to-create-guid-uuid
-            function uuidv4() {
-                return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
-                    var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
-                    return v.toString(16);
-                });
-            }
-        </script>
-    </p>
+    <div class="container">
+        <article>
+            <ul>
+                <li><a href="https://apnews.com/" target="_blank">AP News</a></li>
+                <li><a href="https://www.bloomberg.com/" target="_blank">Bloomberg</a></li>
+                <li><a href="https://www.csmonitor.com/" target="_blank">Christian Science Monitor</a></li>
+                <li><a href="https://www.forbes.com/" target="_blank">Forbes</a></li>
+                <li><a href="https://www.investors.com/" target="_blank">Investor's Business Daily</a></li>
+                <li><a href="https://www.reuters.com/" target="_blank">Reuters</a></li>
+                <li><a href="https://www.usatoday.com/" target="_blank">USA Today</a></li>
+                <li><a href="https://www.washingtonexaminer.com/" target="_blank">Washington Examiner</a></li>
+                <li><a href="https://www.washingtontimes.com/" target="_blank">Washington Times</a></li>
+                <li><a href="https://www.wsj.com/" target="_blank">Wall Street Journal</a></li>
+            </ul>
+        </article>
+        <p align="center">
+            <script type="text/javascript">
+                document.write(Date())
+                document.write("<br>");
+                document.write(uuidv4());
+                // 2020-06-21 https://stackoverflow.com/questions/105034/how-to-create-guid-uuid
+                function uuidv4() {
+                    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+                        var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+                        return v.toString(16);
+                    });
+                }
+            </script>
+        </p>
+    </div>
 
 </body>
 <!-- Last updated: 2020-07-11 (2020-07-11) -->
