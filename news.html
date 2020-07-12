@@ -1,0 +1,76 @@
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News</title>
+    <style type="text/css">
+        html {
+            background-color: #FFFFCC;
+            font-size: 12px;
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+        }
+
+        h1 {
+            font-size: 16px;
+            text-align: center;
+            color: #FF0000;
+        }
+
+        h2 {
+            font-size: 14px;
+            text-align: center;
+            color: #0000FF;
+        }
+
+        a img {
+            border: none;
+        }
+
+        /* https://css-tricks.com/guide-responsive-friendly-css-columns/ */
+        article {
+            -webkit-columns: 2 200px;
+            -moz-columns: 2 200px;
+            columns: 2 200px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 id="Word">
+        <script type="text/javascript" src="js/getRandomBibleVerse.js"></script>
+        <script>getRandomBibleVerse();</script>
+    </h1>
+    <article>
+        <ul>
+            <li><a href="https://apnews.com/" target="_blank">AP News</a></li>
+            <li><a href="https://www.bloomberg.com/" target="_blank">Bloomberg</a></li>
+            <li><a href="https://www.csmonitor.com/" target="_blank">Christian Science Monitor</a></li>
+            <li><a href="https://www.forbes.com/" target="_blank">Forbes</a></li>
+            <li><a href="https://www.investors.com/" target="_blank">Investor's Business Daily</a></li>
+            <li><a href="https://www.reuters.com/" target="_blank">Reuters</a></li>
+            <li><a href="https://www.usatoday.com/" target="_blank">USA Today</a></li>
+            <li><a href="https://www.washingtonexaminer.com/" target="_blank">Washington Examiner</a></li>
+            <li><a href="https://www.washingtontimes.com/" target="_blank">Washington Times</a></li>
+            <li><a href="https://www.wsj.com/" target="_blank">Wall Street Journal</a></li>
+        </ul>
+    </article>
+    <p align="center">
+        <script type="text/javascript">
+            document.write(Date())
+            document.write("<br>");
+            document.write(uuidv4());
+            // 2020-06-21 https://stackoverflow.com/questions/105034/how-to-create-guid-uuid
+            function uuidv4() {
+                return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+                    var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+                    return v.toString(16);
+                });
+            }
+        </script>
+    </p>
+
+</body>
+<!-- Last updated: 2020-07-11 (2020-07-11) -->
+
+</html>
