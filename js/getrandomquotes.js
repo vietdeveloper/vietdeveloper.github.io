@@ -1,20 +1,5 @@
-// 2014-07-26
-// 2020-05-29T1701
+// 2014-07-26 (Master)
 var aQuotes = new Array ();
-aQuotes.push("<p>“<b><i>So be perfect, just as your heavenly Father is perfect.</i></b>” (Matthew 5:48)</p>");
-aQuotes.push("<p>“<b><i>By no means! But I tell you, if you do not repent, you will all perish as they did!</i></b>” (Luke 13:3, NABRE)</p>");
-aQuotes.push("<p>“<b><i>The concern of the flesh is death, but the concern of the spirit is life and peace</i></b>” (Romans 8:6)</p>");
-aQuotes.push("<p>“<b><i>Take care to guard against all greed, for though one may be rich, one’s life does not consist of possessions.</i></b>” (Luke 12:15)</p>");
-aQuotes.push("<p>“<b><i>Pray always without becoming weary.</i></b>” (Luke 18:1)</p>");
-aQuotes.push("<p>“<b><i>In everything you do, act without grumbling or arguing; prove yourselves innocent and straightforward, children of God beyond reproach in the midst of a twisted and depraved generation—among whom you shine like the stars in the sky.</i></b>” (Philippians 2:14-15) </p>");
-aQuotes.push("<p>“<b><i>Let us conduct ourselves properly as in the day, not in orgies and drunkenness, not in promiscuity and licentiousness, not in rivalry and jealousy.</i></b>” (Romans 13:13, NABRE)</p>");
-aQuotes.push("<p>“<b><i>Ask and you will receive; seek and you will find; knock and the door will be opened to you.</i></b>” (Luke 11:9)</p>");
-aQuotes.push("<p>“<b><i>No one who lights a lamp conceals it with a vessel or sets it under a bed; rather, he places it on a lampstand so that those who enter may see the light.</i></b>” (Luke 8:16)</p>");
-aQuotes.push("<p>“<b><i>For we brought nothing into the world, just as we shall not be able to take anything out of it.</i></b>” (1 Timothy 6:7)</p>");
-aQuotes.push("<p>“<b><i>If we have food and clothing, we shall be content with that.</i></b>” (1 Timothy 6:8)</p>");
-aQuotes.push("<p>“<b><i>Those who want to be rich are falling into temptation and into a trap and into many foolish and harmful desires, which plunge them into ruin and destruction.</i></b>” (1 Timothy 6:9 )</p>");
-aQuotes.push("<p>“<b><i>For the love of money is the root of all evils, and some people in their desire for it have strayed from the faith and have pierced themselves with many pains.</i></b>” (1 Timothy 6:10 )</p>");
-
 aQuotes.push("<p>“<b><i>Act as if everything depended on you; trust as if everything depended on God.</i></b>” ― St. Ignatius of Loyola</p>"); 
 aQuotes.push("<p>“<b><i>“Don't let your life be barren. Be useful. Make yourself felt. Shine forth with the torch of your faith and your love. With your apostolic life, wipe out the trail of filth and slime left by the corrupt sowers of hatred. And set aflame all the ways of the earth with the fire of Christ that you bear in your heart.</i></b>” (St. Josemaría Escrivá. The Way, 1)"); 
 
@@ -203,8 +188,6 @@ aQuotes.push('“Apply yourself. Get all the education you can, but then, by God
 aQuotes.push('“Never argue with a fool, onlookers may not be able to tell the difference.” ― Unknown');
 
 // 2020-01-29
-aQuotes.push("“Don't let your life be barren. Be useful. Make yourself felt. Shine forth with the torch of your faith and your love. With your apostolic life, wipe out the trail of filth and slime left by the corrupt sowers of hatred. And set aflame all the ways of the earth with the fire of Christ that you bear in your heart.” (St. Josemaría Escrivá. The Way, 1)");
-
 aQuotes.push("“And it comes from saying no to 1,000 things to make sure we don’t get on the wrong track or try to do too much. We’re always thinking about new markets we could enter, but it’s only by saying no that you can concentrate on the things that are really important.” ― Steve Jobs");     		
 aQuotes.push("“It takes two years to learn to speak and sixty to learn to keep quiet.” — Ernest Hemingway");
 aQuotes.push("“Learn to be silent. Let your mind listen and absorb.” — Pythagoras");
@@ -257,9 +240,11 @@ aQuotes.push("“There were four things from which the Master was entirely free.
 aQuotes.push("“He who is not in any particular office, has nothing to do with plans for the administration of its duties.” ― Confucius. The Analects. Translated by James Legge 1861. [14.27] http://oaks.nvg.org/analects-legge.html​");
 aQuotes.push("“Tsze-lu asked what constituted the superior man. The Master said, \"The cultivation of himself in reverential carefulness.\"” ― Confucius. The Analects. Translated by James Legge 1861. [14.45] http://oaks.nvg.org/analects-legge.html​");
 
-aQuotes.push(`“Quân tử vô sở tranh. Người quân tử không ganh đua với ai.” — Khổng Tử. Luận Ngữ. Nguyễn Hiến Lê dịch, 3.7.`);
-aQuotes.push(`“A gentleman never competes in anything he does” ― Confucius. The Analects. Translated by Ku Hung Ming in "The Discourses and Sayings of Confucius", 1898, 3.7.`);
-aQuotes.push(`“The noble man has nothing to compete for.” — Confucius. The Analects of Confucius. Translated by A. Charles Muller, 3.7`);
+aQuotes.push("“Quân tử vô sở tranh. Người quân tử không ganh đua với ai.” — Khổng Tử. Luận Ngữ. Nguyễn Hiến Lê dịch, 3.7.");
+aQuotes.push("“A gentleman never competes in anything he does” ― Confucius. The Analects. Translated by Ku Hung Ming in \"The Discourses and Sayings of Confucius\", 1898, 3.7.");
+aQuotes.push("“The noble man has nothing to compete for.” — Confucius. The Analects of Confucius. Translated by A. Charles Muller, 3.7");
+
+// 2020-07-18T1301
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!

@@ -1,4 +1,4 @@
-// 2020-05-29T1701
+// 2020-05-29T1701 (Master)
 var aBibles = [];
 
 aBibles.push("<p>“<b><i>And do not be afraid of those who kill the body but cannot kill the soul; rather, be afraid of the one who can destroy both soul and body in Gehenna.</i></b>” (Matthew 10:28 http://www.usccb.org/bible/mt/10:28)</p>");
@@ -57,7 +57,6 @@ aBibles.push("<p>“<b><i>Slow to anger, rich in kindness.</i></b>” (Joel 2:13
 aBibles.push("<p>“<b><i>So be perfect, just as your heavenly Father is perfect.</i></b>” (Matthew 5:48)</p>");
 aBibles.push("<p>“<b><i>So submit yourselves to God. Resist the devil, and he will flee from you.</i></b>” (James 4:7)</p>");
 aBibles.push("<p>“<b><i>Stop judging, that you may not be judged.</i></b>” (Matthew 7:1 http://usccb.org/bible/matthew/7/1)</p>");
-aBibles.push("<p>“<b><i>Take care to guard against all greed, for though one may be rich, one’s life does not consist of possessions.</i></b>” (Luke 12:15)</p>");
 aBibles.push("<p>“<b><i>Take courage and be a man. Keep the mandate of the Lord, your God, following his ways and observing his statutes, commands, ordinances, and decrees, that you may succeed in whatever you do.</i></b>” (1 Kings 2:2b-3)</p>");
 aBibles.push("<p>“<b><i>The concern of the flesh is death, but the concern of the spirit is life and peace.</i></b>” (Romans 8:6)</p>");
 aBibles.push("<p>“<b><i>The measure with which you measure will be measured out to you.</i></b>” (Mark 4:24)</p>");
@@ -86,6 +85,8 @@ aBibles.push("<p><b><i>“The slack hand impoverishes, but the busy hand brings 
 aBibles.push("<p><b><i>“Wealth won quickly dwindles away, but gathered little by little, it grows”</i></b> (Proverbs 13:11 NABRE)</p>");
 aBibles.push("<p><b><i>“By no means! But I tell you, if you do not repent, you will all perish as they did!”</i></b> (Luke 13:5)</p>");
 aBibles.push("<p><b><i>“What then shall we say to this? If God is for us, who can be against us?”</i></b> (Romans 8:31)</p>");
+
+// 2020-07-18T1301
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
