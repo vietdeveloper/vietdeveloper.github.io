@@ -1,7 +1,7 @@
 // 2014-07-26 (Master)
 var aQuotes = new Array ();
 aQuotes.push("<p>“<b><i>Act as if everything depended on you; trust as if everything depended on God.</i></b>” ― St. Ignatius of Loyola</p>"); 
-aQuotes.push("<p>“<b><i>“Don't let your life be barren. Be useful. Make yourself felt. Shine forth with the torch of your faith and your love. With your apostolic life, wipe out the trail of filth and slime left by the corrupt sowers of hatred. And set aflame all the ways of the earth with the fire of Christ that you bear in your heart.</i></b>” (St. Josemaría Escrivá. The Way, 1)"); 
+aQuotes.push("<p>“<b><i>Don't let your life be barren. Be useful. Make yourself felt. Shine forth with the torch of your faith and your love. With your apostolic life, wipe out the trail of filth and slime left by the corrupt sowers of hatred. And set aflame all the ways of the earth with the fire of Christ that you bear in your heart.</i></b>” (St. Josemaría Escrivá. The Way, 1)"); 
 
 aQuotes.push("<p>“<b><i>Science without religion is lame, religion without science is blind.</i></b>” ― Albert Einstein</p>");
 aQuotes.push("<p>“<b><i>God gave you a gift of 86,400 seconds today. Have you used one to say 'thank you'?</i></b>” - William Arthur Ward</p>");
@@ -244,7 +244,7 @@ aQuotes.push("“Quân tử vô sở tranh. Người quân tử không ganh đua
 aQuotes.push("“A gentleman never competes in anything he does” ― Confucius. The Analects. Translated by Ku Hung Ming in \"The Discourses and Sayings of Confucius\", 1898, 3.7.");
 aQuotes.push("“The noble man has nothing to compete for.” — Confucius. The Analects of Confucius. Translated by A. Charles Muller, 3.7");
 
-// 2020-07-18T1301
+// 2020-07-18T1430
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
