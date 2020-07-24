@@ -85,8 +85,10 @@ aBibles.push("<p><b><i>“The slack hand impoverishes, but the busy hand brings 
 aBibles.push("<p><b><i>“Wealth won quickly dwindles away, but gathered little by little, it grows”</i></b> (Proverbs 13:11 NABRE)</p>");
 aBibles.push("<p><b><i>“By no means! But I tell you, if you do not repent, you will all perish as they did!”</i></b> (Luke 13:5)</p>");
 aBibles.push("<p><b><i>“What then shall we say to this? If God is for us, who can be against us?”</i></b> (Romans 8:31)</p>");
-
-// 2020-07-18T1301
+aBibles.push("<p><b><i>“Am I now currying favor with human beings or God? Or am I seeking to please people? If I were still trying to please people, I would not be a slave of Christ.”</i></b> (Galatians 1:10)</p>");
+aBibles.push("<p><b><i>As you help us with prayer, so that thanks may be given by many on our behalf for the gift granted us through the prayers of many.</i></b> (2 Corinthians 1:11)</p>");
+aBibles.push("<p><b><i>“You have been told, O mortal, what is good, and what the LORD requires of you: Only to do justice and to love goodness, and to walk humbly with your God.”</i></b> (Micah 6:8 NABRE 2011. http://usccb.org/bible/micah/6:8)</p>");
+// 2020-07-24T0914
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
