@@ -193,7 +193,6 @@ aQuotes.push('“Apply yourself. Get all the education you can, but then, by God
 aQuotes.push('“Never argue with a fool, onlookers may not be able to tell the difference.” ― Unknown');
 
 // 2020-01-29
-aQuotes.push("“And it comes from saying no to 1,000 things to make sure we don’t get on the wrong track or try to do too much. We’re always thinking about new markets we could enter, but it’s only by saying no that you can concentrate on the things that are really important.” ― Steve Jobs");
 aQuotes.push("“It takes two years to learn to speak and sixty to learn to keep quiet.” — Ernest Hemingway");
 aQuotes.push("“Learn to be silent. Let your mind listen and absorb.” — Pythagoras");
 aQuotes.push("“Learning is an ornament in prosperity, a refuge in adversity, and a provision in old age.” — Aristotle");
@@ -268,6 +267,7 @@ aQuotes.push("“Happiness resides not in possessions, and not in gold, happines
 aQuotes.push("“There is a need to retool yourself, and you should not expect to stop….People who do not spend five to 10 hours a week in online learning will obsolete themselves with the technology.” ― Randall Stephenson, 2016. http://www.nytimes.com/2016/02/14/technology/gearing-up-for-the-cloud-att-tells-its-workers-adapt-or-else.html");
 aQuotes.push("“Violence as a way of achieving racial justice is both impractical and immoral. It is impractical because it is a descending spiral ending in destruction for all. The old law of an eye for an eye leaves everybody blind. It is immoral because it seeks to humiliate the opponent rather than win his understanding; it seeks to annihilate rather than to convert. Violence is immoral because it thrives on hatred rather than love.” ― Martin Luther King Jr. (1929 - 1968). Stride Toward Freedom: The Montgomery Story (1958)");
 aQuotes.push("“To meet hate with retaliatory hate would do nothing but intensify the existence of evil in the universe. Hate begets hate; violence begets violence; toughness begets a greater toughness. We must meet the forces of hate with the power of love; we must meet physical force with soul force.” ― Martin Luther King Jr. (1929 - 1968).");
+// 2020-08-01 
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!

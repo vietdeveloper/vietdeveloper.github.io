@@ -88,7 +88,8 @@ aBibles.push("“What then shall we say to this? If God is for us, who can be ag
 aBibles.push("“Am I now currying favor with human beings or God? Or am I seeking to please people? If I were still trying to please people, I would not be a slave of Christ.” (Galatians 1:10)");
 aBibles.push("As you help us with prayer, so that thanks may be given by many on our behalf for the gift granted us through the prayers of many. (2 Corinthians 1:11)");
 aBibles.push("“You have been told, O mortal, what is good, and what the LORD requires of you: Only to do justice and to love goodness, and to walk humbly with your God.” (Micah 6:8 NABRE 2011. http://usccb.org/bible/micah/6:8)");
-// 2020-07-24T0950
+aBibles.push("“Better to take refuge in the LORD than to put one’s trust in mortals.” (Psalms 118:8 http://usccb.org/bible/psalms/118:8)");
+// 2020-08-01
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
