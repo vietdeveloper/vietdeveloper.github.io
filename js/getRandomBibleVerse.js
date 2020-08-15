@@ -89,7 +89,9 @@ aBibles.push("<b><i>“As you help us with prayer, so that thanks may be given b
 aBibles.push("<b><i>“You have been told, O mortal, what is good, and what the LORD requires of you: Only to do justice and to love goodness, and to walk humbly with your God.”</i></b> (Micah 6:8 NABRE 2011. http://usccb.org/bible/micah/6:8)");
 aBibles.push("<b><i>“Better to take refuge in the LORD than to put one’s trust in mortals.”</i></b> (Psalms 118:8 http://usccb.org/bible/psalms/118:8)");
 aBibles.push("<b><i>“Naked I came forth from my mother’s womb, and naked shall I go back there. The LORD gave and the LORD has taken away; blessed be the name of the LORD!”</i></b> (Job 1:21, NABRE)");
-// 2020-08-08
+aBibles.push("<b><i>“I said in my alarm: “No man can be trusted.””</i></b> (Psalms 116:11)");
+aBibles.push("<b><i>“Do not trust in extortion; in plunder put no empty hope. On wealth that increases, do not set your heart.”</i></b> (Psalms 62:11)");
+// 2020-08-15
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!

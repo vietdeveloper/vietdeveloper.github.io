@@ -2,11 +2,13 @@
 // var aQuotes = []; Which one is good?
 var aQuotes = new Array ();
 aQuotes.push("“Act as if everything depended on you; trust as if everything depended on God.” ― St. Ignatius of Loyola"); 
-aQuotes.push("“Don't let your life be barren. Be useful. Make yourself felt. Shine forth with the torch of your faith and your love. With your apostolic life, wipe out the trail of filth and slime left by the corrupt sowers of hatred. And set aflame all the ways of the earth with the fire of Christ that you bear in your heart.” (Saint Josemaría Escrivá. The Way, 1) ");
-aQuotes.push("“A spoonful of honey attracts more flies than a barrelful of vinegar.” ― Saint Francis de Sales ");
-aQuotes.push("“Ignoratio Scripturarum, ignoratio Christi est. Ignorance of Scripture is ignorance of Christ.” ― Saint Jerome. Commentary on Isaiah, Prologue. http://www.tertullian.org/fathers/jerome_preface_isaiah.htm ");
+aQuotes.push("“Don't let your life be barren. Be useful. Make yourself felt. Shine forth with the torch of your faith and your love. With your apostolic life, wipe out the trail of filth and slime left by the corrupt sowers of hatred. And set aflame all the ways of the earth with the fire of Christ that you bear in your heart.” (Saint Josemaría Escrivá. The Way, 1)");
+aQuotes.push("“A spoonful of honey attracts more flies than a barrelful of vinegar.” ― Saint Francis de Sales");
+aQuotes.push("“Ignoratio Scripturarum, ignoratio Christi est. Ignorance of Scripture is ignorance of Christ.” ― Saint Jerome. Commentary on Isaiah, Prologue. http://www.tertullian.org/fathers/jerome_preface_isaiah.htm");
 aQuotes.push("“Do not let your deeds belie your words, lest when you speak in church someone may say to himself, \"Why do you not practice what you preach?\"” (Saint Jerome. Letter 52)");
-aQuotes.push("“A clergyman who engages in business, and who rises from poverty to wealth, and from obscurity to a high position, avoid as you would the plague.” ― Saint Jerome. Letter 52 http://books.google.com/books?id=1GZRAAAAcAAJ&pg=PA248 ");
+aQuotes.push("“A clergyman who engages in business, and who rises from poverty to wealth, and from obscurity to a high position, avoid as you would the plague.” ― Saint Jerome. Letter 52 http://books.google.com/books?id=1GZRAAAAcAAJ&pg=PA248");
+aQuotes.push("“You do not trust yourself at all, but trust in God for everything” (St. Josemaría Escrivá, Furrow, 787)");
+aQuotes.push("“Pray, hope, and don't worry. Worry is useless. God is merciful and will hear your prayer.” ― Saint Padre Pio");
 
 aQuotes.push("“Science without religion is lame, religion without science is blind.” ― Albert Einstein");
 aQuotes.push("“God gave you a gift of 86,400 seconds today. Have you used one to say 'thank you'?” - William Arthur Ward");
@@ -267,7 +269,9 @@ aQuotes.push("“Happiness resides not in possessions, and not in gold, happines
 aQuotes.push("“There is a need to retool yourself, and you should not expect to stop….People who do not spend five to 10 hours a week in online learning will obsolete themselves with the technology.” ― Randall Stephenson, 2016. http://www.nytimes.com/2016/02/14/technology/gearing-up-for-the-cloud-att-tells-its-workers-adapt-or-else.html");
 aQuotes.push("“Violence as a way of achieving racial justice is both impractical and immoral. It is impractical because it is a descending spiral ending in destruction for all. The old law of an eye for an eye leaves everybody blind. It is immoral because it seeks to humiliate the opponent rather than win his understanding; it seeks to annihilate rather than to convert. Violence is immoral because it thrives on hatred rather than love.” ― Martin Luther King Jr. (1929 - 1968). Stride Toward Freedom: The Montgomery Story (1958)");
 aQuotes.push("“To meet hate with retaliatory hate would do nothing but intensify the existence of evil in the universe. Hate begets hate; violence begets violence; toughness begets a greater toughness. We must meet the forces of hate with the power of love; we must meet physical force with soul force.” ― Martin Luther King Jr. (1929 - 1968).");
-// 2020-08-01 
+aQuotes.push("“It’s a recession when your neighbor loses his job; it’s a depression when you lose yours.” ― Harry S. Truman, 33rd US President.");
+aQuotes.push("“There is only three ways a smart person can go broke: liquor, ladies and leverage.” — Charles T. Munger");
+// 2020-08-15
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
