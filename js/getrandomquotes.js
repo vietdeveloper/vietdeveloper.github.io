@@ -271,7 +271,8 @@ aQuotes.push("“Violence as a way of achieving racial justice is both impractic
 aQuotes.push("“To meet hate with retaliatory hate would do nothing but intensify the existence of evil in the universe. Hate begets hate; violence begets violence; toughness begets a greater toughness. We must meet the forces of hate with the power of love; we must meet physical force with soul force.” ― Martin Luther King Jr. (1929 - 1968).");
 aQuotes.push("“It’s a recession when your neighbor loses his job; it’s a depression when you lose yours.” ― Harry S. Truman, 33rd US President.");
 aQuotes.push("“There is only three ways a smart person can go broke: liquor, ladies and leverage.” — Charles T. Munger");
-// 2020-08-15
+aQuotes.push("“You know education, if you make the most of it, you study hard, you do your homework, and you make an effort to be smart, you can do well. If you don’t, you get stuck.” — John Kerry. Remark at Pasadena City College. October 30, 2006");
+// 2020-08-22
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
