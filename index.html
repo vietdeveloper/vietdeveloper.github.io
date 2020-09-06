@@ -95,7 +95,7 @@
             <!-- ipify is completely open source https://github.com/rdegges/ipify-api -->
             <script>
                 function getIP(json) {
-                    document.write("Public IP: " + json.ip);
+                    document.write("IP returned from ipify.org: " + json.ip);
                 }
             </script>
             <script src="http://api.ipify.org?format=jsonp&callback=getIP"></script>
@@ -115,13 +115,13 @@
                 // $.getJSON('http://gd.geobytes.com/GetCityDetails?callback=?', function(data) {
                 //     $("#remote-ip").html(data.geobytesremoteip + " " + data.geobytesfqcn);
                 // });
-                $.getJSON('https://json.geoiplookup.io/api?callback=?', function(data) {
-                    console.log(JSON.stringify(data, null, 2));
-                    $("#remote-ip").html(data.ip + " " + data.city + " "+ data.country_code); 
-                });
-                // $.getJSON('http://www.geoplugin.net/json.gp?jsoncallback=?', function(data) {
-                //     $("#remote-ip").html(data.geoplugin_request + " " + data.geoplugin_regionCode + " "+ data.geoplugin_countryCode); 
-                // });            
+                // $.getJSON('https://json.geoiplookup.io/api?callback=?', function(data) {
+                //     console.log(JSON.stringify(data, null, 2));
+                //     $("#remote-ip").html(data.ip + " " + data.city + " "+ data.country_code); 
+                // });
+                $.getJSON('http://www.geoplugin.net/json.gp?jsoncallback=?', function(data) {
+                    $("#remote-ip").html(data.geoplugin_request + " " + data.geoplugin_regionCode + " "+ data.geoplugin_countryCode); 
+                });            
             </script>
         </div>
     </footer>
