@@ -9,6 +9,7 @@ aQuotes.push("“Do not let your deeds belie your words, lest when you speak in 
 aQuotes.push("“A clergyman who engages in business, and who rises from poverty to wealth, and from obscurity to a high position, avoid as you would the plague.” ― Saint Jerome. Letter 52 http://books.google.com/books?id=1GZRAAAAcAAJ&pg=PA248");
 aQuotes.push("“You do not trust yourself at all, but trust in God for everything” (St. Josemaría Escrivá, Furrow, 787)");
 aQuotes.push("“Pray, hope, and don't worry. Worry is useless. God is merciful and will hear your prayer.” ― Saint Padre Pio");
+aQuotes.push("“Charity is the form, mover, mother, and root of all virtues.” ― Saint Thomas Aquinas");
 
 aQuotes.push("“Science without religion is lame, religion without science is blind.” ― Albert Einstein");
 aQuotes.push("“God gave you a gift of 86,400 seconds today. Have you used one to say 'thank you'?” - William Arthur Ward");
@@ -178,21 +179,21 @@ aQuotes.push("“Ngu thì người ta khinh, khôn thì người ta ghét; Khôn
 aQuotes.push("“Có ba thứ ngu dốt : <br>Không hiểu biết những gì mình đáng biết. <br>Hiểu biết không rành những gì mình biết. <br>Hiểu biết những gì mình không cần biết.” -- Vương Dương Minh");
 
 // 2019-11-11
-aQuotes.push('“If you want to change the world, start off by making your bed.” ― William H. McRaven. University of Texas at Austin 2014 Commencement Address');
-aQuotes.push('“Concentrate your energy, thought, and capital exclusively upon the business in which you are engaged. Having begun in one line, resolve to fight it out on that line, to lead in it; adopt every improvement, have the best machinery, and know the most about it.” ― Andrew Carnegie.');
-aQuotes.push('“People think focus means saying yes to the thing you\'ve got to focus on. But that\'s not what it means at all. It means saying no to the 100 other good ideas that there are. You have to pick carefully. I\'m actually as proud of the many things we haven\'t done as the things we have done.” ― Steve Jobs');
-aQuotes.push('“Concentrate your energy, thought, and capital exclusively upon the business in which you are engaged. Having begun in one line, resolve to fight it out on that line, to lead in it; adopt every improvement, have the best machinery, and know the most about it.” ― Andrew Carnegie. The Empire of Business (New York: Doubleday, Page & Co., 1902)');
-aQuotes.push('“Do not many of us who fail to achieve big things . . . fail because we lack concentration — the art of concentrating the mind on the thing to be done at the proper time and to the exclusion of everything else?” ― John D. Rockefeller, Sr. Quoted in Titan: The Life of John D. Rockefeller, Sr by Ron Chernow, 174');
-aQuotes.push('“It was a good thing to let the money be my servant and not make myself a slave to money.” ― John D. Rockefeller.');
-aQuotes.push('“Keeping silent and thinking; studying without satiety, teaching others without weariness: somehow I have these abilities.” — Confucius. The Analects. 7.2');
-aQuotes.push('“Don’t worry if you have no position: worry about making yourself worthy of one. Don’t worry if you aren’t known and admired: devote yourself to a life that deserves admiration.” — Confucius. The Analects. Translated by David Hinton, 4.14');
-aQuotes.push('“The noble man has nothing to compete for.” — Confucius. The Analects of Confucius. Translated by A. Charles Muller, 3.7');
-aQuotes.push('“Wise men don\'t need to prove their point; men who need to prove their point aren\'t wise.”— Lao-tzu, Tao Te Ching, chapter 81 as interpreted by Stephen Mitchell (1992)');
-aQuotes.push('“I insist on a lot of time being spent, almost every day, to just sit and think. That is very uncommon in American business. I read and think. So I do more reading and thinking, and make less impulse decisions than most people in business. I do it because I like this kind of life.” — Warren Buffett');
-aQuotes.push('“I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up and boy does that help, particularly when you have a long run ahead of you.” — Charles T. Munger. USC Law Commencement Speech, May 2007.');
-aQuotes.push('“Thinking is the hardest work there is, which is the probable reason why so few engage in it.” ― Henry Ford. 1928.');
-aQuotes.push('“Apply yourself. Get all the education you can, but then, by God, do something. Don\'t just stand there, make it happen. It isn\'t easy, but if you keep your nose to the grindstone and work at it, it\'s amazing how in a free society you can become as great as you want to be. And, of course, also be grateful for whatever blessings God bestow on you.” ― Lee Iacocca. Iacocca: An Autobiography, 357.');
-aQuotes.push('“Never argue with a fool, onlookers may not be able to tell the difference.” ― Unknown');
+aQuotes.push("“If you want to change the world, start off by making your bed.” ― William H. McRaven. University of Texas at Austin 2014 Commencement Address");
+aQuotes.push("“Concentrate your energy, thought, and capital exclusively upon the business in which you are engaged. Having begun in one line, resolve to fight it out on that line, to lead in it; adopt every improvement, have the best machinery, and know the most about it.” ― Andrew Carnegie.");
+aQuotes.push("“People think focus means saying yes to the thing you\'ve got to focus on. But that\'s not what it means at all. It means saying no to the 100 other good ideas that there are. You have to pick carefully. I\'m actually as proud of the many things we haven\'t done as the things we have done.” ― Steve Jobs");
+aQuotes.push("“Concentrate your energy, thought, and capital exclusively upon the business in which you are engaged. Having begun in one line, resolve to fight it out on that line, to lead in it; adopt every improvement, have the best machinery, and know the most about it.” ― Andrew Carnegie. The Empire of Business (New York: Doubleday, Page & Co., 1902)");
+aQuotes.push("“Do not many of us who fail to achieve big things . . . fail because we lack concentration — the art of concentrating the mind on the thing to be done at the proper time and to the exclusion of everything else?” ― John D. Rockefeller, Sr. Quoted in Titan: The Life of John D. Rockefeller, Sr by Ron Chernow, 174");
+aQuotes.push("“It was a good thing to let the money be my servant and not make myself a slave to money.” ― John D. Rockefeller.");
+aQuotes.push("“Keeping silent and thinking; studying without satiety, teaching others without weariness: somehow I have these abilities.” — Confucius. The Analects. 7.2");
+aQuotes.push("“Don’t worry if you have no position: worry about making yourself worthy of one. Don’t worry if you aren’t known and admired: devote yourself to a life that deserves admiration.” — Confucius. The Analects. Translated by David Hinton, 4.14");
+aQuotes.push("“The noble man has nothing to compete for.” — Confucius. The Analects of Confucius. Translated by A. Charles Muller, 3.7");
+aQuotes.push("“Wise men don\'t need to prove their point; men who need to prove their point aren\'t wise.”— Lao-tzu, Tao Te Ching, chapter 81 as interpreted by Stephen Mitchell (1992)");
+aQuotes.push("“I insist on a lot of time being spent, almost every day, to just sit and think. That is very uncommon in American business. I read and think. So I do more reading and thinking, and make less impulse decisions than most people in business. I do it because I like this kind of life.” — Warren Buffett");
+aQuotes.push("“I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up and boy does that help, particularly when you have a long run ahead of you.” — Charles T. Munger. USC Law Commencement Speech, May 2007.");
+aQuotes.push("“Thinking is the hardest work there is, which is the probable reason why so few engage in it.” ― Henry Ford. 1928.");
+aQuotes.push("“Apply yourself. Get all the education you can, but then, by God, do something. Don\'t just stand there, make it happen. It isn\'t easy, but if you keep your nose to the grindstone and work at it, it\'s amazing how in a free society you can become as great as you want to be. And, of course, also be grateful for whatever blessings God bestow on you.” ― Lee Iacocca. Iacocca: An Autobiography, 357.");
+aQuotes.push("“Never argue with a fool, onlookers may not be able to tell the difference.” ― Unknown");
 
 // 2020-01-29
 aQuotes.push("“It takes two years to learn to speak and sixty to learn to keep quiet.” — Ernest Hemingway");
@@ -272,7 +273,7 @@ aQuotes.push("“To meet hate with retaliatory hate would do nothing but intensi
 aQuotes.push("“It’s a recession when your neighbor loses his job; it’s a depression when you lose yours.” ― Harry S. Truman, 33rd US President.");
 aQuotes.push("“There is only three ways a smart person can go broke: liquor, ladies and leverage.” — Charles T. Munger");
 aQuotes.push("“You know education, if you make the most of it, you study hard, you do your homework, and you make an effort to be smart, you can do well. If you don’t, you get stuck.” — John Kerry. Remark at Pasadena City College. October 30, 2006");
-// 2020-08-22
+// 2020-09-06
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
