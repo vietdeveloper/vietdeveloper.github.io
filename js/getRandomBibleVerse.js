@@ -92,8 +92,9 @@ aBibles.push("<b><i>“Naked I came forth from my mother’s womb, and naked sha
 aBibles.push("<b><i>“I said in my alarm: “No man can be trusted.””</i></b> (Psalms 116:11)");
 aBibles.push("<b><i>“Do not trust in extortion; in plunder put no empty hope. On wealth that increases, do not set your heart.”</i></b> (Psalms 62:11)");
 aBibles.push("<b><i>“I shall not die, I shall live and recount his deeds.”</i></b> (Psalm 118:17)");
-aBibles.push("<b><i>“Do not answer fools according to their folly, lest you too become like them.” (Proverbs 26:4)");
-// 2020-08-30
+aBibles.push("<b><i>“Do not answer fools according to their folly, lest you too become like them.”</i></b> (Proverbs 26:4)");
+aBibles.push("<b><i>“I give you a new commandment: love one another. As I have loved you, so you also should love one another.”</i></b> (John 13:34)");
+// 2020-09-13
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
