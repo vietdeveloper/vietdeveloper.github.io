@@ -95,7 +95,8 @@ aBibles.push("<b><i>“I shall not die, I shall live and recount his deeds.”</
 aBibles.push("<b><i>“Do not answer fools according to their folly, lest you too become like them.”</i></b> (Proverbs 26:4)");
 aBibles.push("<b><i>“I give you a new commandment: love one another. As I have loved you, so you also should love one another.”</i></b> (John 13:34)");
 aBibles.push("<b><i>“Do not conform yourselves to this age but be transformed by the renewal of your mind, that you may discern what is the will of God, what is good and pleasing and perfect.”</i></b> (Romans 12:2)");
-// 2020-09-19
+aBibles.push("<b><i>“Give in proportion to what you own. If you have great wealth, give alms out of your abundance; if you have but little, do not be afraid to give alms even of that little.”</i></b> (Tobit 4:8)");
+// 2020-09-27
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
