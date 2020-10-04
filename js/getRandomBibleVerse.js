@@ -39,7 +39,7 @@ aBibles.push("<b><i>“Know this, my dear brothers and sisters: everyone should 
 aBibles.push("<b><i>“Let not your heart be troubled. You believe in God, believe also in me.”</i></b> (John 14:1 Douay-Rheims)");
 aBibles.push("<b><i>“Do not let your hearts be troubled. You have faith in God; have faith also in me.”</i></b> (John 14:1 NABRE)");
 aBibles.push("<b><i>“Let the peace of Christ control your hearts, the peace into which you were also called in one body. And be thankful.”</i></b> (Colossians 3:15)");
-aBibles.push("<b><i>“Let the peace of Christ control your hearts; let the word of Christ dwell in you richly.”</i></b> (Col 3:15a, 16a");
+aBibles.push("<b><i>“Let the peace of Christ control your hearts; let the word of Christ dwell in you richly.”</i></b> (Col 3:15a, 16a)");
 aBibles.push("<b><i>“Let the word of Christ dwell in you richly, as in all wisdom you teach and admonish one another, singing psalms, hymns, and spiritual songs with gratitude in your hearts to God.”</i></b> (Colossians 3:16)");
 aBibles.push("<b><i>“Let us conduct ourselves properly as in the day, not in orgies and drunkenness, not in promiscuity and licentiousness, not in rivalry and jealousy.”</i></b> (Romans 13:13, NABRE)");
 aBibles.push("<b><i>“Limit the time you spend among the stupid, but frequent the company of the thoughtful.”</i></b> (Sirach 27:12 NABRE http://usccb.org/bible/sirach/27:12)");
@@ -96,7 +96,8 @@ aBibles.push("<b><i>“Do not answer fools according to their folly, lest you to
 aBibles.push("<b><i>“I give you a new commandment: love one another. As I have loved you, so you also should love one another.”</i></b> (John 13:34)");
 aBibles.push("<b><i>“Do not conform yourselves to this age but be transformed by the renewal of your mind, that you may discern what is the will of God, what is good and pleasing and perfect.”</i></b> (Romans 12:2)");
 aBibles.push("<b><i>“Give in proportion to what you own. If you have great wealth, give alms out of your abundance; if you have but little, do not be afraid to give alms even of that little.”</i></b> (Tobit 4:8)");
-// 2020-09-27
+aBibles.push("<b><i>“Have no anxiety at all, but in everything, by prayer and petition, with thanksgiving, make your requests known to God.”</i></b> (Philippians 4:6)");
+// 2020-10-04
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
