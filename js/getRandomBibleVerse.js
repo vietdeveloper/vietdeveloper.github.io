@@ -97,7 +97,12 @@ aBibles.push("<b><i>“I give you a new commandment: love one another. As I have
 aBibles.push("<b><i>“Do not conform yourselves to this age but be transformed by the renewal of your mind, that you may discern what is the will of God, what is good and pleasing and perfect.”</i></b> (Romans 12:2)");
 aBibles.push("<b><i>“Give in proportion to what you own. If you have great wealth, give alms out of your abundance; if you have but little, do not be afraid to give alms even of that little.”</i></b> (Tobit 4:8)");
 aBibles.push("<b><i>“Have no anxiety at all, but in everything, by prayer and petition, with thanksgiving, make your requests known to God.”</i></b> (Philippians 4:6)");
-// 2020-10-04
+aBibles.push("<b><i>“I am not conscious of anything against me, but I do not thereby stand acquitted; the one who judges me is the Lord.”</i></b> (1 Corinthians 4:4)");
+aBibles.push("<b><i>“Do not speak evil of one another, brothers. Whoever speaks evil of a brother or judges his brother speaks evil of the law and judges the law. If you judge the law, you are not a doer of the law but a judge.”</i></b> (James 4:11)");
+aBibles.push("<b><i>“There is one lawgiver and judge who is able to save or to destroy. Who then are you to judge your neighbor?”</i></b> (James 4:12)");
+aBibles.push("<b><i>“Avoid foolish arguments, genealogies, rivalries, and quarrels about the law, for they are useless and futile.”</i></b> (Titus 3:9)");
+aBibles.push("<b><i>“Put falsehood and lying far from me, give me neither poverty nor riches; provide me only with the food I need;”</i></b> (Proverbs 30:8)");
+// 2020-10-11
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
