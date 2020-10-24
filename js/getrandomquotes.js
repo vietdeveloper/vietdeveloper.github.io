@@ -182,7 +182,6 @@ aQuotes.push("“Có ba thứ ngu dốt : <br>Không hiểu biết những gì m
 aQuotes.push("“If you want to change the world, start off by making your bed.” ― William H. McRaven. University of Texas at Austin 2014 Commencement Address");
 aQuotes.push("“Concentrate your energy, thought, and capital exclusively upon the business in which you are engaged. Having begun in one line, resolve to fight it out on that line, to lead in it; adopt every improvement, have the best machinery, and know the most about it.” ― Andrew Carnegie.");
 aQuotes.push("“People think focus means saying yes to the thing you\'ve got to focus on. But that\'s not what it means at all. It means saying no to the 100 other good ideas that there are. You have to pick carefully. I\'m actually as proud of the many things we haven\'t done as the things we have done.” ― Steve Jobs");
-aQuotes.push("“Concentrate your energy, thought, and capital exclusively upon the business in which you are engaged. Having begun in one line, resolve to fight it out on that line, to lead in it; adopt every improvement, have the best machinery, and know the most about it.” ― Andrew Carnegie. The Empire of Business (New York: Doubleday, Page & Co., 1902)");
 aQuotes.push("“Do not many of us who fail to achieve big things . . . fail because we lack concentration — the art of concentrating the mind on the thing to be done at the proper time and to the exclusion of everything else?” ― John D. Rockefeller, Sr. Quoted in Titan: The Life of John D. Rockefeller, Sr by Ron Chernow, 174");
 aQuotes.push("“It was a good thing to let the money be my servant and not make myself a slave to money.” ― John D. Rockefeller.");
 aQuotes.push("“Keeping silent and thinking; studying without satiety, teaching others without weariness: somehow I have these abilities.” — Confucius. The Analects. 7.2");
@@ -205,7 +204,6 @@ aQuotes.push("“A clever person solves a problem. A wise person avoids it.” �
 aQuotes.push("“A thorough knowledge of the Bible is worth more than a college education.” ― Theodore Roosevelt");
 aQuotes.push("“Apply yourself. Get all the education you can, but then, by God, do something. Don't just stand there, make it happen. It isn't easy, but if you keep your nose to the grindstone and work at it, it's amazing how in a free society you can become as great as you want to be. And, of course, also be grateful for whatever blessings God bestow on you.” ― Lee Iacocca. Iacocca: An Autobiography, 357.");
 aQuotes.push("“By swallowing evil word unsaid, no one has ever yet harmed his stomach.” ―  Winston S. Churchill");
-aQuotes.push("“Concentrate your energy, thought, and capital exclusively upon the business in which you are engaged. Having begun in one line, resolve to fight it out on that line, to lead in it; adopt every improvement, have the best machinery, and know the most about it.” ― Andrew Carnegie. The Empire of Business (New York: Doubleday, Page & Co., 1902)");
 aQuotes.push("“Do not many of us who fail to achieve big things . . . fail because we lack concentration — the art of concentrating the mind on the thing to be done at the proper time and to the exclusion of everything else?” ― John D. Rockefeller, Sr. Quoted in Titan: The Life of John D. Rockefeller, Sr by Ron Chernow, 174");
 aQuotes.push("“Do not squander time for that is the stuff life is made of.” ― Benjamin Franklin");
 aQuotes.push("“Don’t worry if you have no position: worry about making yourself worthy of one. Don’t worry if you aren’t known and admired: devote yourself to a life that deserves admiration.” — Confucius. The Analects. Translated by David Hinton, 4.14");
@@ -275,7 +273,7 @@ aQuotes.push("“There is only three ways a smart person can go broke: liquor, l
 aQuotes.push("“You know education, if you make the most of it, you study hard, you do your homework, and you make an effort to be smart, you can do well. If you don’t, you get stuck.” — John Kerry. Remark at Pasadena City College. October 30, 2006");
 aQuotes.push("“If you would be wealthy, think of saving, as well as of getting” ― Benjamin Franklin. The Way to Wealth (1758)");
 aQuotes.push("“Perseverance is the foundation of all actions.” ― Lao Tzu. Tao Te Ching, 33");
-// 2020-09-27
+// 2020-10-24 Removed duplicates
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
