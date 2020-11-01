@@ -102,7 +102,8 @@ aBibles.push("<b><i>“Do not speak evil of one another, brothers. Whoever speak
 aBibles.push("<b><i>“There is one lawgiver and judge who is able to save or to destroy. Who then are you to judge your neighbor?”</i></b> (James 4:12)");
 aBibles.push("<b><i>“Avoid foolish arguments, genealogies, rivalries, and quarrels about the law, for they are useless and futile.”</i></b> (Titus 3:9)");
 aBibles.push("<b><i>“Put falsehood and lying far from me, give me neither poverty nor riches; provide me only with the food I need;”</i></b> (Proverbs 30:8)");
-// 2020-10-11
+aBibles.push("<b><i>“Save yourselves from this corrupt generation.”</i></b> (Act 2:40)");
+// 2020-11-01
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
