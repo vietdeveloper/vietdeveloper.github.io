@@ -103,7 +103,8 @@ aBibles.push("<b><i>“There is one lawgiver and judge who is able to save or to
 aBibles.push("<b><i>“Avoid foolish arguments, genealogies, rivalries, and quarrels about the law, for they are useless and futile.”</i></b> (Titus 3:9)");
 aBibles.push("<b><i>“Put falsehood and lying far from me, give me neither poverty nor riches; provide me only with the food I need;”</i></b> (Proverbs 30:8)");
 aBibles.push("<b><i>“Save yourselves from this corrupt generation.”</i></b> (Act 2:40)");
-// 2020-11-01
+aBibles.push("<b><i>“The person who is trustworthy in very small matters is also trustworthy in great ones; and the person who is dishonest in very small matters is also dishonest in great ones.”</i></b> (Luke 16:10)");
+// 2020-11-08
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
