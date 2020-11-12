@@ -30,6 +30,7 @@
             <a href="cg.html">Catholic Resources</a><br>
             <a href="cs.html">Cybersecurity Resources</a><br>
             <a href="technology.html">Technology Resources</a><br>
+            <br>
             <script type="text/javascript">
                 function getRandomInt(max) {
                     return Math.floor(Math.random() * Math.floor(max));
@@ -44,7 +45,7 @@
                 var aStreets = ['Road', 'Street', 'Avenue', 'Parkway', 'Blvd.'];
                 var aSBCities = ['Chino Hills, CA 91709', 'Rancho Cucamonga, CA 91701', 'Chino, CA 91708', 'Grand Terrace, CA 92313', 'Redlands, CA 92373', 'Fontana, CA 92335', 'Loma Linda, CA 92350', 'Yucapa, CA 92399', 'Upland, CA 91786', 'Ontario, CA 91761', 'Rialto, CA 92376', 'Montclair, CA 91763', 'Victorville, CA 92392', 'San Bernardino, CA 92401'];
 
-                document.write("<br><br>");
+                document.write("My random fictitious data for development testing<br>");
                 document.write(aFNames[getRandomInt(aFNames.length - 1)] + " " + aGreekChars[getRandomInt(aGreekChars.length - 1)] + " " + aPlanets[getRandomInt(aPlanets.length - 1)]);
                 document.write("<br>");
                 document.write(getRandomInt(9999) + ' ' + aGreekMyths[getRandomInt(aGreekMyths.length - 1)] + ' ' + aStreets[getRandomInt(aStreets.length - 1)]);
@@ -53,6 +54,7 @@
                 document.write("<br>");
                 document.write((100 + getRandomInt(899)) + "-555-" + getRandomInt(9999).toString().padStart(4, '0'));
                 document.write("<br>");
+
                 // https://stackoverflow.com/questions/1349404/generate-random-string-characters-in-javascript
                 function makeid(length) {
                     var result = '';
@@ -72,10 +74,47 @@
                         return v.toString(16);
                     });
                 }
-
                 document.write("<br>");
                 document.write(uuidv4());
             </script>
+
+            <!-- 2020-11-12 Faking data from Marak Squires' faker.js-->
+            <br><br>
+            <script src="js/faker.min.js" type="text/javascript"></script>
+            <script>
+                var randomName = faker.name.findName(); // Caitlyn Kerluke
+                var randomEmail = faker.internet.email(); // Rusty@arne.info
+                var randomCard = faker.helpers.createCard(); // random contact card containing many properties
+                var randomAddress = faker.address.streetAddress();
+                document.write("Faking data from <a href='https://github.com/marak/Faker.js/' target=_blank>Marak Squires' faker.js</a><br>");
+                document.write(randomName + "<br>");
+                document.write(faker.name.jobTitle() + "<br>");
+                document.write(faker.company.companyName() + " " + faker.company.companySuffix() + "<br>");
+                document.write(randomAddress + "<br>");
+                document.write(faker.address.city() + " " + faker.address.stateAbbr() + " " + faker.address.zipCodeByState() + "<br>");
+                document.write(faker.phone.phoneNumber() + "<br>");
+                document.write(faker.internet.exampleEmail() + "<br>");
+                document.write(faker.internet.userName() + " " + faker.internet.password() + "<br>");
+                //document.write("<img src='" + faker.internet.avatar() + "'><br>");
+                //document.write(faker.vehicle.vehicle() + "<br>");
+                document.write(faker.date.past().getFullYear() + " " + toTitleCase(faker.vehicle.color()) + " " + faker.vehicle.manufacturer() + " " + faker.vehicle.model() + " " + faker.vehicle.type() + "<br>");
+                //document.write(faker.date.past().getFullYear() + "<br>");
+                document.write(toTitleCase(faker.commerce.color()) + " " + faker.commerce.productName() + " $" + faker.commerce.price() + "<br>");
+                document.write(faker.commerce.department() + "<br>");
+                document.write(faker.commerce.product() + "<br>");
+                document.write(faker.commerce.productDescription() + "<br>");
+
+                function toTitleCase(str) {
+                    return str.replace(
+                        /\w\S*/g,
+                        function (txt) {
+                            return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+                        }
+                    );
+                } 
+
+            </script>
+
         </div>
     </div>
     <br>
@@ -85,7 +124,7 @@
             <br>
             <script type="text/javascript" src="js/getrandomquotes.js"></script>
             <script>getRandomQuotes();</script>
-            <br>
+            <br><br>
             <script>
                 document.write("The current time is " + Date() + "<br/>");
                 document.write("You are using " + navigator.appName + " " + navigator.appVersion + "<br/>");
@@ -119,9 +158,11 @@
                 //     console.log(JSON.stringify(data, null, 2));
                 //     $("#remote-ip").html(data.ip + " " + data.city + " "+ data.country_code); 
                 // });
-                $.getJSON('http://www.geoplugin.net/json.gp?jsoncallback=?', function(data) {
-                    $("#remote-ip").html(data.geoplugin_request + " " + data.geoplugin_regionCode + " "+ data.geoplugin_countryCode); 
-                });            
+                $.getJSON('http://www.geoplugin.net/json.gp?jsoncallback=?', function (data) {
+                    $("#remote-ip").html(data.geoplugin_request + " " + data.geoplugin_regionCode + " " + data.geoplugin_countryCode);
+                });
+
+
             </script>
         </div>
     </footer>
