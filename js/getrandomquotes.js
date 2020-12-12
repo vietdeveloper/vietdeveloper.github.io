@@ -273,7 +273,10 @@ aQuotes.push("“There is only three ways a smart person can go broke: liquor, l
 aQuotes.push("“You know education, if you make the most of it, you study hard, you do your homework, and you make an effort to be smart, you can do well. If you don’t, you get stuck.” — John Kerry. Remark at Pasadena City College. October 30, 2006");
 aQuotes.push("“If you would be wealthy, think of saving, as well as of getting” ― Benjamin Franklin. The Way to Wealth (1758)");
 aQuotes.push("“Perseverance is the foundation of all actions.” ― Lao Tzu. Tao Te Ching, 33");
-// 2020-10-24 Removed duplicates
+aQuotes.push("“In America we don’t worship government, we worship God.” ― President Donald Trump. Liberty University Commencement Speech. May 13, 2017 https://time.com/4778240/donald-trump-liberty-university-speech-transcript/");
+aQuotes.push("“We take an oath to the Constitution” ― General Mark Milley. Nov 11, 2020 https://www.usatoday.com/videos/news/nation/2020/11/13/gen-milley-we-take-oath-constitution/6274373002/");
+aQuotes.push("“The government is not your salvation. The government is not your road to prosperity. Hard work, education will take you far beyond what any government program can ever promise.” ― Mia Love. https://www.npr.org/2012/05/03/151952884/in-utah-gop-house-candidate-out-to-make-history");
+// 2020-12-12
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
