@@ -10,6 +10,7 @@ aQuotes.push("“A clergyman who engages in business, and who rises from poverty
 aQuotes.push("“You do not trust yourself at all, but trust in God for everything” (St. Josemaría Escrivá, Furrow, 787)");
 aQuotes.push("“Pray, hope, and don't worry. Worry is useless. God is merciful and will hear your prayer.” ― Saint Padre Pio");
 aQuotes.push("“Charity is the form, mover, mother, and root of all virtues.” ― Saint Thomas Aquinas");
+aQuotes.push("“For understanding is the reward of faith. Therefore do not seek to understand in order to believe, but believe that you may understand.” ― St. Augustine of Hippo. Tractates on the Gospel of John. Tractate 29");
 
 aQuotes.push("“Science without religion is lame, religion without science is blind.” ― Albert Einstein");
 aQuotes.push("“God gave you a gift of 86,400 seconds today. Have you used one to say 'thank you'?” - William Arthur Ward");
@@ -69,7 +70,7 @@ aQuotes.push("“If we knew what it was we were doing, it would not be called re
 aQuotes.push("“A clever person solves a problem. A wise person avoids it.” ― Albert Einstein");
 aQuotes.push("“Learn from yesterday, live for today, hope for tomorrow. The important thing is to not stop questioning.” ― Albert Einstein, Relativity: The Special and the General Theory");
 aQuotes.push("“Example isn't another way to teach, it is the only way to teach.” - Albert Einstein");
-aQuotes.push("“The hardest thing in the world to understand is the income tax.” — Albert Einstein, physicist");
+aQuotes.push("“The hardest thing in the world to understand is the income tax.” ― Albert Einstein, physicist");
 aQuotes.push("“Try not to become a man of success. Rather become a man of value.” ― Albert Einstein");
 aQuotes.push("“Peace cannot be kept by force. It can only be achieved by understanding.” ― Albert Einstein. From a speech to the New History Society (14 December 1930), reprinted in \"Militant Pacifism\" in Cosmic Religion (1931).");
 aQuotes.push("“Our death is not an end if we can live on in our children and the younger generation.  For they are us, our bodies are only wilted leaves on the tree of life.”  ~Albert Einstein");
@@ -79,8 +80,8 @@ aQuotes.push("“Remember that time is money.” ~Benjamin Franklin. Advice to a
 
 aQuotes.push("“Innovation … comes from saying no to 1,000 things to make sure we don’t get on the wrong track or try to do too much. We’re always thinking about new markets we could enter, but it’s only by saying no that you can concentrate on the things that are really important.” - Steve Jobs");
 aQuotes.push("“People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully.” - Steve Jobs");
-aQuotes.push("“That’s been one of my mantras — focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” - Steve Jobs");
-aQuotes.push("“Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma — which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”  - Steve Jobs"); 
+aQuotes.push("“That’s been one of my mantras ― focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” - Steve Jobs");
+aQuotes.push("“Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma ― which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”  - Steve Jobs"); 
 
 aQuotes.push("“When there is an income tax, the just man will pay more and the unjust less on the same amount of income.” - Plato. The Republic. Book I."); 
 aQuotes.push("“The beginning is the most important part of any work.” - Plato. The Republic. Book II."); 
@@ -154,11 +155,11 @@ aQuotes.push("“Life is just a blank slate, what matters most is what you write
 aQuotes.push("“If Life gives you lemons, make lemonade. If the lemons are rotten, take out the seeds and plant them in order to grow new lemons.” - Louise L. Hay"); 
 aQuotes.push("“Everyone has his burden. What counts is how you carry it.” - Merle Miller");
 aQuotes.push("“To enjoy freedom we have to control ourselves.” - Virginia Woolf (1882-1941)");
-aQuotes.push("“The greater part of progress is the desire to progress.” — Seneca");
-aQuotes.push("“The reason why we have two ears and only one mouth is that we may listen the more and talk the less. ” — Zeno of Citium");
+aQuotes.push("“The greater part of progress is the desire to progress.” ― Seneca");
+aQuotes.push("“The reason why we have two ears and only one mouth is that we may listen the more and talk the less. ” ― Zeno of Citium");
 aQuotes.push("“Young men think old men are fools; but old men know young men are fools.” - George Chapman.");
 aQuotes.push("“Death is not the greatest loss in life. The greatest loss is what dies inside us while we live.” - Norman Cousins  (American Essayist and Editor, long associated with the Saturday Review. 1912-1990)");
-aQuotes.push("“Liberty is the result of free individual action, energy and independence.” — Samuel Smiles");
+aQuotes.push("“Liberty is the result of free individual action, energy and independence.” ― Samuel Smiles");
 aQuotes.push("“Many receive advice, only the wise profit from it.” - Publilius Syrus");
 aQuotes.push("“Experience is a good teacher, but she sends in terrific bills.”  - Minna Antrim, Naked Truth and Veiled Allusions, p. 99 (1901).");
 aQuotes.push("“Experience is the teacher of all things.” - Julius Caesar, Commentarii de Bello Civili (Commentaries on the Civil War), 2. 8 (50s or 40s BC).");
@@ -182,38 +183,38 @@ aQuotes.push("“Có ba thứ ngu dốt : <br>Không hiểu biết những gì m
 aQuotes.push("“If you want to change the world, start off by making your bed.” ― William H. McRaven. University of Texas at Austin 2014 Commencement Address");
 aQuotes.push("“Concentrate your energy, thought, and capital exclusively upon the business in which you are engaged. Having begun in one line, resolve to fight it out on that line, to lead in it; adopt every improvement, have the best machinery, and know the most about it.” ― Andrew Carnegie.");
 aQuotes.push("“People think focus means saying yes to the thing you\'ve got to focus on. But that\'s not what it means at all. It means saying no to the 100 other good ideas that there are. You have to pick carefully. I\'m actually as proud of the many things we haven\'t done as the things we have done.” ― Steve Jobs");
-aQuotes.push("“Do not many of us who fail to achieve big things . . . fail because we lack concentration — the art of concentrating the mind on the thing to be done at the proper time and to the exclusion of everything else?” ― John D. Rockefeller, Sr. Quoted in Titan: The Life of John D. Rockefeller, Sr by Ron Chernow, 174");
+aQuotes.push("“Do not many of us who fail to achieve big things . . . fail because we lack concentration ― the art of concentrating the mind on the thing to be done at the proper time and to the exclusion of everything else?” ― John D. Rockefeller, Sr. Quoted in Titan: The Life of John D. Rockefeller, Sr by Ron Chernow, 174");
 aQuotes.push("“It was a good thing to let the money be my servant and not make myself a slave to money.” ― John D. Rockefeller.");
-aQuotes.push("“Keeping silent and thinking; studying without satiety, teaching others without weariness: somehow I have these abilities.” — Confucius. The Analects. 7.2");
-aQuotes.push("“Don’t worry if you have no position: worry about making yourself worthy of one. Don’t worry if you aren’t known and admired: devote yourself to a life that deserves admiration.” — Confucius. The Analects. Translated by David Hinton, 4.14");
-aQuotes.push("“The noble man has nothing to compete for.” — Confucius. The Analects of Confucius. Translated by A. Charles Muller, 3.7");
-aQuotes.push("“Wise men don\'t need to prove their point; men who need to prove their point aren\'t wise.”— Lao-tzu, Tao Te Ching, chapter 81 as interpreted by Stephen Mitchell (1992)");
-aQuotes.push("“I insist on a lot of time being spent, almost every day, to just sit and think. That is very uncommon in American business. I read and think. So I do more reading and thinking, and make less impulse decisions than most people in business. I do it because I like this kind of life.” — Warren Buffett");
-aQuotes.push("“I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up and boy does that help, particularly when you have a long run ahead of you.” — Charles T. Munger. USC Law Commencement Speech, May 2007.");
+aQuotes.push("“Keeping silent and thinking; studying without satiety, teaching others without weariness: somehow I have these abilities.” ― Confucius. The Analects. 7.2");
+aQuotes.push("“Don’t worry if you have no position: worry about making yourself worthy of one. Don’t worry if you aren’t known and admired: devote yourself to a life that deserves admiration.” ― Confucius. The Analects. Translated by David Hinton, 4.14");
+aQuotes.push("“The noble man has nothing to compete for.” ― Confucius. The Analects of Confucius. Translated by A. Charles Muller, 3.7");
+aQuotes.push("“Wise men don\'t need to prove their point; men who need to prove their point aren\'t wise.”― Lao-tzu, Tao Te Ching, chapter 81 as interpreted by Stephen Mitchell (1992)");
+aQuotes.push("“I insist on a lot of time being spent, almost every day, to just sit and think. That is very uncommon in American business. I read and think. So I do more reading and thinking, and make less impulse decisions than most people in business. I do it because I like this kind of life.” ― Warren Buffett");
+aQuotes.push("“I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up and boy does that help, particularly when you have a long run ahead of you.” ― Charles T. Munger. USC Law Commencement Speech, May 2007.");
 aQuotes.push("“Thinking is the hardest work there is, which is the probable reason why so few engage in it.” ― Henry Ford. 1928.");
 aQuotes.push("“Apply yourself. Get all the education you can, but then, by God, do something. Don\'t just stand there, make it happen. It isn\'t easy, but if you keep your nose to the grindstone and work at it, it\'s amazing how in a free society you can become as great as you want to be. And, of course, also be grateful for whatever blessings God bestow on you.” ― Lee Iacocca. Iacocca: An Autobiography, 357.");
 aQuotes.push("“Never argue with a fool, onlookers may not be able to tell the difference.” ― Unknown");
 
 // 2020-01-29
-aQuotes.push("“It takes two years to learn to speak and sixty to learn to keep quiet.” — Ernest Hemingway");
-aQuotes.push("“Learn to be silent. Let your mind listen and absorb.” — Pythagoras");
-aQuotes.push("“Learning is an ornament in prosperity, a refuge in adversity, and a provision in old age.” — Aristotle");
-aQuotes.push("“Silence is a source of great strength.” — Lao-tzu");
-aQuotes.push("“When the noble man eats he does not try to stuff himself; at rest he does not seek perfect comfort; he is diligent in his work and careful in speech. He avails himself to people of the Way.” — Confucius. The Analects. 1.14");
+aQuotes.push("“It takes two years to learn to speak and sixty to learn to keep quiet.” ― Ernest Hemingway");
+aQuotes.push("“Learn to be silent. Let your mind listen and absorb.” ― Pythagoras");
+aQuotes.push("“Learning is an ornament in prosperity, a refuge in adversity, and a provision in old age.” ― Aristotle");
+aQuotes.push("“Silence is a source of great strength.” ― Lao-tzu");
+aQuotes.push("“When the noble man eats he does not try to stuff himself; at rest he does not seek perfect comfort; he is diligent in his work and careful in speech. He avails himself to people of the Way.” ― Confucius. The Analects. 1.14");
 aQuotes.push("“A clever person solves a problem. A wise person avoids it.” ― Albert Einstein");
 aQuotes.push("“A thorough knowledge of the Bible is worth more than a college education.” ― Theodore Roosevelt");
 aQuotes.push("“Apply yourself. Get all the education you can, but then, by God, do something. Don't just stand there, make it happen. It isn't easy, but if you keep your nose to the grindstone and work at it, it's amazing how in a free society you can become as great as you want to be. And, of course, also be grateful for whatever blessings God bestow on you.” ― Lee Iacocca. Iacocca: An Autobiography, 357.");
 aQuotes.push("“By swallowing evil word unsaid, no one has ever yet harmed his stomach.” ―  Winston S. Churchill");
-aQuotes.push("“Do not many of us who fail to achieve big things . . . fail because we lack concentration — the art of concentrating the mind on the thing to be done at the proper time and to the exclusion of everything else?” ― John D. Rockefeller, Sr. Quoted in Titan: The Life of John D. Rockefeller, Sr by Ron Chernow, 174");
+aQuotes.push("“Do not many of us who fail to achieve big things . . . fail because we lack concentration ― the art of concentrating the mind on the thing to be done at the proper time and to the exclusion of everything else?” ― John D. Rockefeller, Sr. Quoted in Titan: The Life of John D. Rockefeller, Sr by Ron Chernow, 174");
 aQuotes.push("“Do not squander time for that is the stuff life is made of.” ― Benjamin Franklin");
-aQuotes.push("“Don’t worry if you have no position: worry about making yourself worthy of one. Don’t worry if you aren’t known and admired: devote yourself to a life that deserves admiration.” — Confucius. The Analects. Translated by David Hinton, 4.14");
+aQuotes.push("“Don’t worry if you have no position: worry about making yourself worthy of one. Don’t worry if you aren’t known and admired: devote yourself to a life that deserves admiration.” ― Confucius. The Analects. Translated by David Hinton, 4.14");
 aQuotes.push("“Education is an ornament in prosperity and a refuge in adversity.” ―  Aristotle");
 aQuotes.push("“Have faith, both in spiritual matters and in humanity, and in yourself. That faith will see you through the dark times we all navigate.” ― T. Boone Pickens. https://www.linkedin.com/pulse/final-message-from-boone-pickens-shared-before-his-passing-pickens/");
 aQuotes.push("“He who knows, does not speak. He who speaks, does not know.” ―  Lao-tzu, Tao Te Ching, chapter 56");
 aQuotes.push("“I believe God is managing affairs and that He doesn't need any advice from me. With God in charge, I believe everything will work out for the best in the end. So what is there to worry about.” ― Henry Ford");
 aQuotes.push("“I believe the power to make money is a gift of God … to be developed and used to the best of our ability for the good of mankind. Having been endowed with the gift I possess, I believe it is my duty to make money and still more money and to use the money I make for the good of my fellow man according to the dictates of my conscience.” ― John D. Rockefeller, Sr. Interview with William Hoster, quoted in God's Gold: The Story of Rockefeller and His Times (1932) by John T. Flynn.");
-aQuotes.push("“I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up and boy does that help, particularly when you have a long run ahead of you.” — Charles T. Munger. USC Law Commencement Speech, May 2007.");
-aQuotes.push("“I insist on a lot of time being spent, almost every day, to just sit and think. That is very uncommon in American business. I read and think. So I do more reading and thinking, and make less impulse decisions than most people in business. I do it because I like this kind of life.” — Warren Buffett");
+aQuotes.push("“I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up and boy does that help, particularly when you have a long run ahead of you.” ― Charles T. Munger. USC Law Commencement Speech, May 2007.");
+aQuotes.push("“I insist on a lot of time being spent, almost every day, to just sit and think. That is very uncommon in American business. I read and think. So I do more reading and thinking, and make less impulse decisions than most people in business. I do it because I like this kind of life.” ― Warren Buffett");
 aQuotes.push("“If you don’t find a way to make money while you sleep, you will work until you die.” ―  Warren Buffett?");
 aQuotes.push("“If you fail to prepare you are preparing to fail” ― Anonymous Proverb");
 aQuotes.push("“If you want to change the world, start off by making your bed.” ― William H. McRaven. University of Texas at Austin 2014 Commencement Address");
@@ -221,7 +222,7 @@ aQuotes.push("“Im lặng là vàng, nhẫn nhịn là bạc, giúp người l�
 aQuotes.push("“Instead of being concerned that you have no office, be concerned to think how you may fit yourself for office.” ― Confucius. The Analects, 4.14");
 aQuotes.push("“It is the duty of all Nations to acknowledge the providence of Almighty God, to obey his will, to be grateful for his benefits, and humbly to implore his protection and favor.” ― George Washington (Thanksgiving Day Proclamation)");
 aQuotes.push("“It was a good thing to let the money be my servant and not make myself a slave to money.” ― John D. Rockefeller.");
-aQuotes.push("“Keeping silent and thinking; studying without satiety, teaching others without weariness: somehow I have these abilities.” — Confucius. The Analects. 7.2");
+aQuotes.push("“Keeping silent and thinking; studying without satiety, teaching others without weariness: somehow I have these abilities.” ― Confucius. The Analects. 7.2");
 aQuotes.push("“Life is fragile, handle with prayer.” (Unknown. Misattributed to Harold B. Lee)");
 aQuotes.push("“Make sure you would work for yourself.” ―  Eric Schmidt. How Google Works.");
 aQuotes.push("“My concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.” ― Abraham Lincoln");
@@ -235,7 +236,7 @@ aQuotes.push("“The poor and the middle class work for money. The rich have mon
 aQuotes.push("“Thinking is the hardest work there is, which is the probable reason why so few engage in it.” ― Henry Ford. 1928.");
 aQuotes.push("“Time is really the only capital that any human being has, and the only thing he can’t afford to lose.” ―  Thomas Edison");
 aQuotes.push("“To study and not think is a waste. To think and not study is dangerous.” ― Confucius. The Analects, 2.15");
-aQuotes.push("“Wise men don't need to prove their point; men who need to prove their point aren't wise.”— Lao-tzu, Tao Te Ching, chapter 81 as interpreted by Stephen Mitchell (1992)");
+aQuotes.push("“Wise men don't need to prove their point; men who need to prove their point aren't wise.” ― Lao-tzu, Tao Te Ching, chapter 81 as interpreted by Stephen Mitchell (1992)");
 aQuotes.push("“Wrong does not cease to be wrong because the majority share in it.” ―  Leo Tolstoy, A Confession");
 aQuotes.push("“You’ve gotta keep control of your time, and you can’t unless you say no. You can’t let people set your agenda in life.” ― Warren Buffett");
 aQuotes.push("“Aim for the highest; never enter a bar-room; do not touch liquor, or if at all only at meals; never speculate; never indorse beyond your surplus cash fund; make the firm’s interest yours; break orders always to save owners; concentrate; put all your eggs in one basket, and watch that basket; expenditure always within revenue; lastly, be not impatient.” ― Andrew Carnegie, The Road to Business Success");
@@ -246,7 +247,7 @@ aQuotes.push("“Tử tuyệt tứ: vô ý, vô tất, vô cố, vô ngã. Khổ
 aQuotes.push("“He who is not in any particular office, has nothing to do with plans for the administration of its duties.” ― Confucius. The Analects. Translated by James Legge 1861. [14.27] http://oaks.nvg.org/analects-legge.html​");
 aQuotes.push("“Tsze-lu asked what constituted the superior man. The Master said, \"The cultivation of himself in reverential carefulness.\"” ― Confucius. The Analects. Translated by James Legge 1861. [14.45] http://oaks.nvg.org/analects-legge.html​");
 
-aQuotes.push("“Quân tử vô sở tranh. Người quân tử không ganh đua với ai.” — Khổng Tử. Luận Ngữ. Nguyễn Hiến Lê dịch, 3.7.");
+aQuotes.push("“Quân tử vô sở tranh. Người quân tử không ganh đua với ai.” ― Khổng Tử. Luận Ngữ. Nguyễn Hiến Lê dịch, 3.7.");
 aQuotes.push("“A gentleman never competes in anything he does” ― Confucius. The Analects. Translated by Ku Hung Ming in \"The Discourses and Sayings of Confucius\", 1898, 3.7.");
 aQuotes.push("“The noble man has nothing to compete for.” — Confucius. The Analects of Confucius. Translated by A. Charles Muller, 3.7");
 
@@ -276,7 +277,13 @@ aQuotes.push("“Perseverance is the foundation of all actions.” ― Lao Tzu. 
 aQuotes.push("“In America we don’t worship government, we worship God.” ― President Donald Trump. Liberty University Commencement Speech. May 13, 2017 https://time.com/4778240/donald-trump-liberty-university-speech-transcript/");
 aQuotes.push("“We take an oath to the Constitution” ― General Mark Milley. Nov 11, 2020 https://www.usatoday.com/videos/news/nation/2020/11/13/gen-milley-we-take-oath-constitution/6274373002/");
 aQuotes.push("“The government is not your salvation. The government is not your road to prosperity. Hard work, education will take you far beyond what any government program can ever promise.” ― Mia Love. https://www.npr.org/2012/05/03/151952884/in-utah-gop-house-candidate-out-to-make-history");
-// 2020-12-12
+aQuotes.push("“You remind yourself that nobody on his deathbed ever said, 'I wish I'd spent more time at the office'.” ― Peter Lynch. Beating the Street. 1993");
+aQuotes.push("“The best investment you can make, is an investment in yourself.” ― Warren Buffett");
+aQuotes.push("“I Always Tried to Turn Every Disaster into an Opportunity !” ― John D. Rockefeller, Attack and Win in Business");
+aQuotes.push("“Well done is better than well said.” ― Benjamin Franklin");
+aQuotes.push("“I worked hard and smarter than most people in the businesses I have been in. It’s not in the dreaming, it’s in the doing.” ― Mark Cuban");
+aQuotes.push("“Empty your mind. Be formless, shapeless, like water. You put water into a cup; it becomes the cup. You put water into a teapot; it becomes the teapot. You put water into a bottle; it becomes the bottle. Now water can flow, or it can crash. Be water, my friend.” ― Bruce Lee (Be Water, My Friend: The Teachings of Bruce Lee by Shannon Lee. 2020)");
+// 2020-12-20
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!

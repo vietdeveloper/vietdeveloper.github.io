@@ -93,8 +93,6 @@
             <script type="text/javascript">
                 document.write("<br>");
                 document.write(uuidv4()+"<br>");
-                document.write(Date()+"<br>")
-
                 // 2020-06-21 https://stackoverflow.com/questions/105034/how-to-create-guid-uuid
                 function uuidv4() {
                     return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
@@ -102,12 +100,14 @@
                         return v.toString(16);
                     });
                 }
-
+                document.write(Date()+"<br>")
+                document.write("You are using " + navigator.appName + " " + navigator.appVersion + "<br/>");
+                document.write("Last updated: " + document.lastModified + "<br/>");
             </script>
         </center>
     </p>
 
 </body>
-<!-- Last updated: 2020-09-18T0622 (2020-05-30) -->
+<!-- Last updated: 2020-12-20T1236 (2020-05-30) -->
 
 </html>

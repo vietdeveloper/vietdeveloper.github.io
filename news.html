@@ -59,10 +59,14 @@
             </ul>
         </article>
         <p align="center">
+            * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+            <br>
+            <script type="text/javascript" src="js/getrandomquotes.js"></script>
+            <script>getRandomQuotes();</script>
+            <br>
             <script type="text/javascript">
-                document.write(Date())
                 document.write("<br>");
-                document.write(uuidv4());
+                document.write(uuidv4()+"<br>");
                 // 2020-06-21 https://stackoverflow.com/questions/105034/how-to-create-guid-uuid
                 function uuidv4() {
                     return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
@@ -70,11 +74,14 @@
                         return v.toString(16);
                     });
                 }
+                document.write(Date()+"<br>")
+                document.write("You are using " + navigator.appName + " " + navigator.appVersion + "<br/>");
+                document.write("Last updated: " + document.lastModified + "<br/>");
             </script>
         </p>
     </div>
 
 </body>
-<!-- Last updated: 2020-07-11 (2020-07-11) -->
+<!-- Last updated: 2020-12-20T1236 (2020-07-11) -->
 
 </html>
