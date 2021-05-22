@@ -106,7 +106,8 @@ aBibles.push("<b><i>“Save yourselves from this corrupt generation.”</i></b> 
 aBibles.push("<b><i>“The person who is trustworthy in very small matters is also trustworthy in great ones; and the person who is dishonest in very small matters is also dishonest in great ones.”</i></b> (Luke 16:10)");
 aBibles.push("<b><i>“To the victor, who keeps to my ways until the end, I will give authority over the nations.”</i></b> (Revelation 2:26)");
 aBibles.push("<b><i>“Bear one another’s burdens, and so you will fulfill the law of Christ.”</i></b> (Galatians 6:2)");
-// 2020-12-20 (Master)
+aBibles.push("<b><i>“Bless the LORD, my soul; and do not forget all his gifts”</i></b> (Psalms 103:2)");
+// 2021-05-21 (Master)
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
