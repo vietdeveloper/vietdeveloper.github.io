@@ -109,7 +109,8 @@ aBibles.push("<b><i>“Bear one another’s burdens, and so you will fulfill the
 aBibles.push("<b><i>“Bless the LORD, my soul; and do not forget all his gifts”</i></b> (Psalms 103:2)");
 aBibles.push("<b><i>“Strive for peace with everyone, and for that holiness without which no one will see the Lord.”</i></b> (Hebrews 12:14)");
 aBibles.push("<b><i>“Stop judging and you will not be judged. Stop condemning and you will not be condemned. Forgive and you will be forgiven.”</i></b> (Luke 6:37)");
-// 2021-07-10 (Master)
+aBibles.push("<b><i>“For where jealousy and selfish ambition exist, there is disorder and every foul practice.”</i></b> (James 3:16)");
+// 2021-09-19 (Master)
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
