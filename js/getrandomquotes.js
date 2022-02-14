@@ -267,6 +267,10 @@ aQuotes.push("“Well done is better than well said.” ― Benjamin Franklin");
 aQuotes.push("“I worked hard and smarter than most people in the businesses I have been in. It’s not in the dreaming, it’s in the doing.” ― Mark Cuban");
 aQuotes.push("“Empty your mind. Be formless, shapeless, like water. You put water into a cup; it becomes the cup. You put water into a teapot; it becomes the teapot. You put water into a bottle; it becomes the bottle. Now water can flow, or it can crash. Be water, my friend.” ― Bruce Lee (Be Water, My Friend: The Teachings of Bruce Lee by Shannon Lee. 2020)");
 // 2020-12-20
+aQuotes.push("“Wealth is the slave of a wise man. The master of a fool.” ― Seneca. Moral Essays: Volume I De Providentia. De Constantia. De Ira. De Clementia");
+aQuotes.push("“People are frugal in guarding their personal property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy.” ― Seneca. On the Shortness of Life");
+aQuotes.push("“Wild animals run from the dangers they actually see, and once they have escaped them worry no more. We however are tormented alike by what is past and what is to come. A number of our blessings do us harm, for memory brings back the agony of fear while foresight brings it on prematurely. No one confines his unhappiness to the present.” ― Lucius Annaeus Seneca. Letters from a Stoic. Letters from a Stoic");
+// 2022-02-13
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
