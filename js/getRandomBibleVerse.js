@@ -111,6 +111,14 @@ aBibles.push("<b><i>“Strive for peace with everyone, and for that holiness wit
 aBibles.push("<b><i>“Stop judging and you will not be judged. Stop condemning and you will not be condemned. Forgive and you will be forgiven.”</i></b> (Luke 6:37)");
 aBibles.push("<b><i>“For where jealousy and selfish ambition exist, there is disorder and every foul practice.”</i></b> (James 3:16)");
 // 2021-09-19 (Master)
+aBibles.push("<b><i>“But above all, my brothers, do not swear, either by heaven or by earth or with any other oath, but let your 'Yes' mean 'Yes' and your 'No' mean 'No,' that you may not incur condemnation.”</i></b> (James 5:12)");
+aBibles.push("<b><i>“Indeed we call blessed those who have persevered. You have heard of the perseverance of Job, and you have seen the purpose of the Lord, because 'the Lord is compassionate and merciful'</i></b> (James 5:11)");
+aBibles.push("<b><i>“Salt is good, but if salt becomes insipid, with what will you restore its flavor? Keep salt in yourselves and you will have peace with one another.”</i></b> (Mark 9:50)");
+aBibles.push("<b><i>“Seventy is the sum of our years, or eighty, if we are strong; Most of them are toil and sorrow; they pass quickly, and we are gone”</i></b> (Psalms 90:10)");
+aBibles.push("<b><i>“A good tree does not bear rotten fruit, nor does a rotten tree bear good fruit. For every tree is known by its own fruit”</i></b> (Luke 6:43-4)");
+aBibles.push("<b><i>“Beware that your hearts do not become drowsy from carousing and drunkenness and the anxieties of daily life, and that day catch you by surprise like a trap. For that day will assault everyone who lives on the face of the earth. Be vigilant at all times and pray that you have the strength to escape the tribulations that are imminent and to stand before the Son of Man.”</i></b> (Luke 21:34-36)");
+aBibles.push("<b><i>“Keep me safe, O God; in you I take refuge.”</i></b> (Psalms 16:1)");
+// 2021-09-19 (Master)
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
