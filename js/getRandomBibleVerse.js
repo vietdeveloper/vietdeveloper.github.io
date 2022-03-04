@@ -118,7 +118,13 @@ aBibles.push("<b><i>“Seventy is the sum of our years, or eighty, if we are str
 aBibles.push("<b><i>“A good tree does not bear rotten fruit, nor does a rotten tree bear good fruit. For every tree is known by its own fruit”</i></b> (Luke 6:43-4)");
 aBibles.push("<b><i>“Beware that your hearts do not become drowsy from carousing and drunkenness and the anxieties of daily life, and that day catch you by surprise like a trap. For that day will assault everyone who lives on the face of the earth. Be vigilant at all times and pray that you have the strength to escape the tribulations that are imminent and to stand before the Son of Man.”</i></b> (Luke 21:34-36)");
 aBibles.push("<b><i>“Keep me safe, O God; in you I take refuge.”</i></b> (Psalms 16:1)");
-// 2021-09-19 (Master)
+// 2021-09-26 (Master)
+aBibles.push("<b><i>“Have mercy on me, God, in accord with your merciful love; in your abundant compassion blot out my transgressions.”</i></b> (Psalms 51:3 NABRE 2011)");
+aBibles.push("<b><i>“Be merciful, O Lord, for we have sinned.”</i></b> (Psalms 51:3a)");
+aBibles.push("<b><i>“Have mercy on me, O God, according to thy steadfast love; according to thy abundant mercy blot out my transgressions.”</i></b> (Psalms 51:1 RSVCE 1966)");
+aBibles.push("<b><i>“Have mercy on me, O God, according to thy great mercy. And according to the multitude of thy tender mercies blot out my iniquity.”</i></b> (Psalm 50:3 Douay-Rheims 1899)");
+aBibles.push("<b><i>“Have mercy on me, O God, as thou art ever rich in mercy; in the abundance of thy compassion, blot out the record of my misdeeds.”</i></b> (Psalm 50:3 Knox 1949)");
+aBibles.push("<b><i>“Have mercy on me, O God, in your faithful love, in your great tenderness wipe away my offences;”</i></b> (Psalm 51:3 NJB 1985)");
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
