@@ -118,13 +118,24 @@ aBibles.push("<b><i>“Seventy is the sum of our years, or eighty, if we are str
 aBibles.push("<b><i>“A good tree does not bear rotten fruit, nor does a rotten tree bear good fruit. For every tree is known by its own fruit”</i></b> (Luke 6:43-4)");
 aBibles.push("<b><i>“Beware that your hearts do not become drowsy from carousing and drunkenness and the anxieties of daily life, and that day catch you by surprise like a trap. For that day will assault everyone who lives on the face of the earth. Be vigilant at all times and pray that you have the strength to escape the tribulations that are imminent and to stand before the Son of Man.”</i></b> (Luke 21:34-36)");
 aBibles.push("<b><i>“Keep me safe, O God; in you I take refuge.”</i></b> (Psalms 16:1)");
-// 2021-09-26 (Master)
+// 2022-02-26 (Master)
 aBibles.push("<b><i>“Have mercy on me, God, in accord with your merciful love; in your abundant compassion blot out my transgressions.”</i></b> (Psalms 51:3 NABRE 2011)");
 aBibles.push("<b><i>“Be merciful, O Lord, for we have sinned.”</i></b> (Psalms 51:3a)");
 aBibles.push("<b><i>“Have mercy on me, O God, according to thy steadfast love; according to thy abundant mercy blot out my transgressions.”</i></b> (Psalms 51:1 RSVCE 1966)");
 aBibles.push("<b><i>“Have mercy on me, O God, according to thy great mercy. And according to the multitude of thy tender mercies blot out my iniquity.”</i></b> (Psalm 50:3 Douay-Rheims 1899)");
 aBibles.push("<b><i>“Have mercy on me, O God, as thou art ever rich in mercy; in the abundance of thy compassion, blot out the record of my misdeeds.”</i></b> (Psalm 50:3 Knox 1949)");
 aBibles.push("<b><i>“Have mercy on me, O God, in your faithful love, in your great tenderness wipe away my offences;”</i></b> (Psalm 51:3 NJB 1985)");
+
+aBibles.push("<b><i>“Thus says the LORD: Cursed is the man who trusts in human beings, who makes flesh his strength, whose heart turns away from the LORD.”</i></b> (Jeremiah 17:5)");
+aBibles.push("<b><i>“Blessed are those who trust in the LORD; the LORD will be their trust.”</i></b> (Jeremiah 17:7)");
+aBibles.push("<b><i>“Save us by your power, and help me, who am alone and have no one but you, Lord.”</i></b> (Esther 4:25 https://bible.usccb.org/bible/esther/4?25)");
+aBibles.push("<b><i>“O my Lord, who alone art our king, help me a desolate woman, and who have no other helper but thee.”</i></b> (Esther 14:3. Douay-Rheims 1899)");
+aBibles.push("<b><i>“Lord, our King, thou reignest alone; befriend a lonely heart that can find help nowhere but in thee.”</i></b> (Esther 14:3. Knox 1949)");
+aBibles.push("<b><i>“O my Lord, thou only art our King; help me, who am alone and have no helper but thee”</i></b> (Esther 14:3. RSVCE 1966)");
+aBibles.push("<b><i>“Lạy Chúa con, chỉ mình Chúa là Vua chúng con, xin cứu giúp con đang sống cô độc, ngoài Chúa không có ai khác giúp đỡ con.”</i></b> (Esther 14,3. UBPV/HĐGMVN, Sách Lễ Rôma, Phần Bài Đọc 1973)");
+aBibles.push("<b><i>“My Lord, our King, the Only One, come to my help, for I am alone and have no helper but you and am about to take my life in my hands.”</i></b> (Esther 4:17l. NJB 1985)");
+aBibles.push("<b><i>“Lạy Chúa tôi, chỉ có một mình Người là vua chúng tôi. Xin đáp cứu tôi, một kẻ thân cô thế cô, và ngoài Người ra, không ai nâng đỡ.”.</i></b> (Esther 4,17l. Lm Nguyễn Thế Thuấn 1976.)");
+// 2022-03-18 (Master)
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
