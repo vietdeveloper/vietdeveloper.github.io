@@ -136,6 +136,9 @@ aBibles.push("<b><i>“Lạy Chúa con, chỉ mình Chúa là Vua chúng con, xi
 aBibles.push("<b><i>“My Lord, our King, the Only One, come to my help, for I am alone and have no helper but you and am about to take my life in my hands.”</i></b> (Esther 4:17l. NJB 1985)");
 aBibles.push("<b><i>“Lạy Chúa tôi, chỉ có một mình Người là vua chúng tôi. Xin đáp cứu tôi, một kẻ thân cô thế cô, và ngoài Người ra, không ai nâng đỡ.”.</i></b> (Esther 4,17l. Lm Nguyễn Thế Thuấn 1976.)");
 // 2022-03-18 (Master)
+aBibles.push("<b><i>“For God so loved the world that he gave his only Son, so that everyone who believes in him might not perish but might have eternal life.”.</i></b> (John 3:16. NABRE 2011. https://bible.usccb.org/bible/john/3?16)");
+aBibles.push("<b><i>“For you were called for freedom, brothers. But do not use this freedom as an opportunity for the flesh; rather, serve one another through love.”.</i></b> (Galatians 5:13. NABRE 2011. https://bible.usccb.org/bible/galatians/5?13)");
+// 2022-06-26 (Master)
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
