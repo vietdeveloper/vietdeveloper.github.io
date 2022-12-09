@@ -94,6 +94,7 @@ aBibles.push("<b><i>“Do not trust in extortion; in plunder put no empty hope. 
 aBibles.push("<b><i>“I shall not die, I shall live and recount his deeds.”</i></b> (Psalm 118:17)");
 aBibles.push("<b><i>“Do not answer fools according to their folly, lest you too become like them.”</i></b> (Proverbs 26:4)");
 aBibles.push("<b><i>“I give you a new commandment: love one another. As I have loved you, so you also should love one another.”</i></b> (John 13:34)");
+aBibles.push("<b><i>“I urge you therefore, brothers, by the mercies of God, to offer your bodies as a living sacrifice, holy and pleasing to God, your spiritual worship.”</i></b> (Romans 12:1)");
 aBibles.push("<b><i>“Do not conform yourselves to this age but be transformed by the renewal of your mind, that you may discern what is the will of God, what is good and pleasing and perfect.”</i></b> (Romans 12:2)");
 aBibles.push("<b><i>“Give in proportion to what you own. If you have great wealth, give alms out of your abundance; if you have but little, do not be afraid to give alms even of that little.”</i></b> (Tobit 4:8)");
 aBibles.push("<b><i>“Have no anxiety at all, but in everything, by prayer and petition, with thanksgiving, make your requests known to God.”</i></b> (Philippians 4:6)");
