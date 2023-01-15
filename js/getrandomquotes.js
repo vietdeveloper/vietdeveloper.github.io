@@ -271,6 +271,8 @@ aQuotes.push("“Wealth is the slave of a wise man. The master of a fool.” ―
 aQuotes.push("“People are frugal in guarding their personal property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy.” ― Seneca. On the Shortness of Life");
 aQuotes.push("“Wild animals run from the dangers they actually see, and once they have escaped them worry no more. We however are tormented alike by what is past and what is to come. A number of our blessings do us harm, for memory brings back the agony of fear while foresight brings it on prematurely. No one confines his unhappiness to the present.” ― Lucius Annaeus Seneca. Letters from a Stoic. Letters from a Stoic");
 // 2022-02-13
+// 2023-01-15
+aQuotes.push("“To go beyond is as wrong as to fall short.” ― Confucius. The Chinese Classics: Confucian Analects translated by James Legge. (1861) XI.15 https://www.gutenberg.org/ebooks/4094");
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
