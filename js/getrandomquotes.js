@@ -274,6 +274,9 @@ aQuotes.push("“Wild animals run from the dangers they actually see, and once t
 // 2023-01-15
 aQuotes.push("“To go beyond is as wrong as to fall short.” ― Confucius. The Chinese Classics: Confucian Analects translated by James Legge. (1861) XI.15 https://www.gutenberg.org/ebooks/4094");
 
+// 2023-04-28
+aQuotes.push("“Not to live as if you had endless years ahead of you. Death overshadows you. While you're alive and able - be good.” ― Marcus Aurelius, Meditations. Hays translation. IV, 17");
+
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
 function getRandomInt(min, max) {
