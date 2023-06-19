@@ -11,6 +11,7 @@ aQuotes.push("“You do not trust yourself at all, but trust in God for everythi
 aQuotes.push("“Pray, hope, and don't worry. Worry is useless. God is merciful and will hear your prayer.” ― Saint Padre Pio");
 aQuotes.push("“Charity is the form, mover, mother, and root of all virtues.” ― Saint Thomas Aquinas");
 aQuotes.push("“For understanding is the reward of faith. Therefore do not seek to understand in order to believe, but believe that you may understand.” ― St. Augustine of Hippo. Tractates on the Gospel of John. Tractate 29");
+aQuotes.push("“The fruit of silence is prayer, the fruit of prayer is faith, the fruit of faith is love, the fruit of love is service, and the fruit of service is peace.” ― Saint Teresa of Calcutta");
 
 aQuotes.push("“Science without religion is lame, religion without science is blind.” ― Albert Einstein");
 aQuotes.push("“God gave you a gift of 86,400 seconds today. Have you used one to say 'thank you'?” ― William Arthur Ward");
@@ -276,6 +277,7 @@ aQuotes.push("“To go beyond is as wrong as to fall short.” ― Confucius. Th
 
 // 2023-04-28
 aQuotes.push("“Not to live as if you had endless years ahead of you. Death overshadows you. While you're alive and able - be good.” ― Marcus Aurelius, Meditations. Hays translation. IV, 17");
+aQuotes.push("“The problem of our age is the proper administration of wealth, so that the ties of brotherhood may still bind together the rich and poor in harmonious relationship” - Andrew Carnegie. The Gospel of Wealth. 1889. https://www.carnegie.org/about/our-history/gospelofwealth/");
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
