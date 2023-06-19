@@ -1,10 +1,18 @@
 /* Last updated: 2023-06-19T1140 (2019-12-21) */
- R { TEXT-ALIGN: left}
-BODY { color: green; background-color:black;}
-BODY DIV { FONT: small tahoma, verdana }
-P { font:Verdana, Arial, Sans Serif; font-size:medium; }
-A:hover { COLOR: red }
-INPUT.gdnbutton {
-	BORDER-RIGHT: #336699 1px solid; BORDER-TOP: #99ccff 1px solid; FONT-WEIGHT: bold; BORDER-LEFT: #99ccff 1px solid; CURSOR: hand; COLOR: #ffffff; BORDER-BOTTOM: #336699 1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #3399ff; TEXT-DECORATION: none
+html {
+	color: green;
+	background-color: black;
+	font-size: medium;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
 }
-IMG { BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; BORDER-TOP-COLOR: black; BORDER-RIGHT-COLOR: black }
+
+img {
+	border-left-color: black;
+	border-bottom-color: black;
+	border-top-color: black;
+	border-right-color: black;
+}
+
+a {
+	color: orange;
+}
