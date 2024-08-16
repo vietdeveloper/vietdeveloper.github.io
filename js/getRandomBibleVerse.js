@@ -145,6 +145,8 @@ aBibles.push("<b><i>“The fear of the LORD is pure, enduring forever. The statu
 aBibles.push("<b><i>“You are the salt of the earth. But if salt loses its taste, with what can it be seasoned? It is no longer good for anything but to be thrown out and trampled underfoot.”</i></b> (Matthew 5:13. NABRE 2011. https://bible.usccb.org/bible/matthew/5?13)");
 aBibles.push("<b><i>“This people honors me with their lips, but their hearts are far from me.”</i></b> (Matthew 15:8. NABRE 2011. https://bible.usccb.org/bible/matthew/15?8)");
 aBibles.push("<b><i>“Put no trust in a neighbor, have no confidence in a friend; guard the doors of your mouth from her who lies in your bosom.”</i></b> (Micah 7:5 RSVCE. https://biblia.com/bible/rsvce/micah/7/5)");
+// 2024-06-02 (Master)
+aBibles.push("<b><i>“You also must be prepared, for at an hour you do not expect, the Son of Man will come.”</i></b> (Luke 12:40 NABRE 2011.)");
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
