@@ -147,6 +147,10 @@ aBibles.push("<b><i>“This people honors me with their lips, but their hearts a
 aBibles.push("<b><i>“Put no trust in a neighbor, have no confidence in a friend; guard the doors of your mouth from her who lies in your bosom.”</i></b> (Micah 7:5 RSVCE. https://biblia.com/bible/rsvce/micah/7/5)");
 // 2024-06-02 (Master)
 aBibles.push("<b><i>“You also must be prepared, for at an hour you do not expect, the Son of Man will come.”</i></b> (Luke 12:40 NABRE 2011.)");
+// 2025-03-10 (Master)
+aBibles.push("<b><i>“Call to me, and I will answer you; I will tell you great things beyond the reach of your knowledge.”</i></b> (Jeremiah 33:3 https://bible.usccb.org/bible/jeremiah/33?3)");
+aBibles.push("<b><i>“Let what you say be simply ‘Yes’ or ‘No’; anything more than this comes from evil.”</i></b> (Matthew 5:37. RSVCE. https://biblia.com/bible/rsvce/matthew/5/37)");
+aBibles.push("<b><i>“Let your ‘Yes’ mean ‘Yes,’ and your ‘No’ mean ‘No.’ Anything more is from the evil one.”</i></b> (Matthew 5:37 https://bible.usccb.org/bible/matthew/5?37)");
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
