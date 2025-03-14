@@ -279,6 +279,9 @@ aQuotes.push("“To go beyond is as wrong as to fall short.” ― Confucius. Th
 aQuotes.push("“Not to live as if you had endless years ahead of you. Death overshadows you. While you're alive and able - be good.” ― Marcus Aurelius, Meditations. Hays translation. IV, 17");
 aQuotes.push("“The problem of our age is the proper administration of wealth, so that the ties of brotherhood may still bind together the rich and poor in harmonious relationship” - Andrew Carnegie. The Gospel of Wealth. 1889. https://www.carnegie.org/about/our-history/gospelofwealth/");
 
+// 2025-03-14 
+aQuotes.push("Which do you value more your wealth or your wellness? (Lao Tzu. Tao Te Ching. Chapter 44)");
+
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
 function getRandomInt(min, max) {
