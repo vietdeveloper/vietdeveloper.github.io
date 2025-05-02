@@ -1,5 +1,6 @@
 // 2014-07-26 (Master) 
 // var aQuotes = []; Which one is good?
+// 2025-05-02
 var aQuotes = new Array ();
 aQuotes.push("“Act as if everything depended on you; trust as if everything depended on God.” ― St. Ignatius of Loyola"); 
 aQuotes.push("“Don't let your life be barren. Be useful. Make yourself felt. Shine forth with the torch of your faith and your love. With your apostolic life, wipe out the trail of filth and slime left by the corrupt sowers of hatred. And set aflame all the ways of the earth with the fire of Christ that you bear in your heart.” (Saint Josemaría Escrivá. The Way, 1)");
@@ -13,11 +14,13 @@ aQuotes.push("“Charity is the form, mover, mother, and root of all virtues.”
 aQuotes.push("“For understanding is the reward of faith. Therefore do not seek to understand in order to believe, but believe that you may understand.” ― St. Augustine of Hippo. Tractates on the Gospel of John. Tractate 29");
 aQuotes.push("“The fruit of silence is prayer, the fruit of prayer is faith, the fruit of faith is love, the fruit of love is service, and the fruit of service is peace.” ― Saint Teresa of Calcutta");
 
+aQuotes.push("Live as if you were to die tomorrow. Learn as if you were to live forever (Saint Isidore of Seville. Etymologiae)");
+
 aQuotes.push("“Science without religion is lame, religion without science is blind.” ― Albert Einstein");
 aQuotes.push("“God gave you a gift of 86,400 seconds today. Have you used one to say 'thank you'?” ― William Arthur Ward");
 aQuotes.push("“Out of the darkness of my life, so much frustrated, I put before you the one great thing to love on earth: the Blessed Sacrament … There you will find romance, glory, honour, fidelity, and the true way of all your loves upon earth.” ― J.R.R. Tolkien, The Letters of J.R.R. Tolkien"); 
 
-aQuotes.push("“Survive first, and make money afterwards.” ― George Soros.");
+aQuotes.push("“Survive first, and make money afterwards.” ― George Soros. Soros on Soros: Staying Ahead of the Curve. John Wiley & Sons, 1995. Page 61.” ");
 
 aQuotes.push("“Rule No.1: Never lose money. Rule No.2: Never forget rule No.1.” ~ Warren Buffett");
 aQuotes.push("“It’s better to hang out with people better than you. Pick out associates whose behavior is better than yours and you’ll drift in that direction.” ― Warren Buffett");
@@ -92,8 +95,6 @@ aQuotes.push("“Concentrate all your thoughts upon the work at hand. The sun's 
 aQuotes.push("“It is the man who carefully advances step by step...who is bound to succeed in the greatest degree.”― Alexandar Graham Bell");
 
 aQuotes.push("“Learn to be silent. Let your mind listen and absorb.” ― Pythagorus"); 
-
-aQuotes.push("“Live as if you were to die tomorrow. Learn as if you were to live forever.” ― Mahatma Gandhi");
 
 aQuotes.push("“It is better to remain silent and be thought a fool, then to open your mouth and remove all doubts.” ~ Abraham Lincoln");
 aQuotes.push("“Always bear in mind that your own resolution to succeed is more important than any other one thing.” ― Abraham Lincoln"); 
