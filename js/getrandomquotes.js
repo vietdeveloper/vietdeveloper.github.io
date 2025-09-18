@@ -283,6 +283,9 @@ aQuotes.push("“The problem of our age is the proper administration of wealth, 
 // 2025-03-14 
 aQuotes.push("Which do you value more your wealth or your wellness? (Lao Tzu. Tao Te Ching. Chapter 44)");
 
+// 2025-09-18
+aQuotes.push("An investment in knowledge pays the best interest. - Attributed to Benjamin Franklin");
+
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
 function getRandomInt(min, max) {
