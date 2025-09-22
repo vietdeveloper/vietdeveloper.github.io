@@ -1,6 +1,6 @@
 // 2014-07-26 (Master) 
 // var aQuotes = []; Which one is good?
-// 2025-05-02
+// 2025-09-16
 var aQuotes = new Array ();
 aQuotes.push("“Act as if everything depended on you; trust as if everything depended on God.” ― St. Ignatius of Loyola"); 
 aQuotes.push("“Don't let your life be barren. Be useful. Make yourself felt. Shine forth with the torch of your faith and your love. With your apostolic life, wipe out the trail of filth and slime left by the corrupt sowers of hatred. And set aflame all the ways of the earth with the fire of Christ that you bear in your heart.” (Saint Josemaría Escrivá. The Way, 1)");
@@ -283,8 +283,9 @@ aQuotes.push("“The problem of our age is the proper administration of wealth, 
 // 2025-03-14 
 aQuotes.push("Which do you value more your wealth or your wellness? (Lao Tzu. Tao Te Ching. Chapter 44)");
 
-// 2025-09-18
-aQuotes.push("An investment in knowledge pays the best interest. - Attributed to Benjamin Franklin");
+// 2025-09-16
+aQuotes.push("An investment in knowledge pays the best interest. (Attributed to Benjamin Franklin)");
+aQuotes.push("Aye; moderate in every way. Be moderate in moderation. (Unknown author. Ancient Greek poetry titled “Pagan Pictures”)");
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
