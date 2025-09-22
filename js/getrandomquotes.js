@@ -286,6 +286,7 @@ aQuotes.push("Which do you value more your wealth or your wellness? (Lao Tzu. Ta
 // 2025-09-16
 aQuotes.push("An investment in knowledge pays the best interest. (Attributed to Benjamin Franklin)");
 aQuotes.push("Aye; moderate in every way. Be moderate in moderation. (Unknown author. Ancient Greek poetry titled “Pagan Pictures”)");
+aQuotes.push("If money is your hope for independence, you will never have it. The only real security that a man can have in this world is a reserve of knowledge, experience and ability. (Henry Ford?)");
 
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
