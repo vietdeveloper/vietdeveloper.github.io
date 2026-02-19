@@ -23,7 +23,7 @@ aBibles.push("<b><i>“For the love of money is the root of all evils, and some 
 aBibles.push("<b><i>“For we brought nothing into the world, just as we shall not be able to take anything out of it.”</i></b> (1 Timothy 6:7)");
 aBibles.push("<b><i>“Give thanks to the LORD for he is good, his mercy endures forever!”</i></b> (Psalms 107:1 NABRE)");
 aBibles.push("<b><i>“Give thanks to the LORD of hosts, for the LORD is good; God’s love endures forever.”</i></b> (Jeremiah 33:11 NABRE)");
-aBibles.push("<b><i>“Give thanks to the LORD, for he is good, his mercy endures forever.”</i></b> (Psalms 118:1 NABRE)");
+aBibles.push("<b><i>“Give thanks to the LORD, for he is good, his mercy endures forever.”</i></b> (18:1 NABRE)");
 aBibles.push("<b><i>“Give thanks to the LORD, who is good, whose mercy endures forever.”</i></b> (Psalms 106:1 NABRE)");
 aBibles.push("<b><i>“Good indeed is the LORD, His mercy endures forever, his faithfulness lasts through every generation.”</i></b> (Psalms 100:5 NABRE)");
 aBibles.push("<b><i>“He said to them, 'Come after me, and I will make you fishers of men.' At once they left their nets and followed him.”</i></b> (Matthew 4:19-20)");
@@ -152,6 +152,11 @@ aBibles.push("<b><i>“Call to me, and I will answer you; I will tell you great 
 aBibles.push("<b><i>“Let what you say be simply ‘Yes’ or ‘No’; anything more than this comes from evil.”</i></b> (Matthew 5:37. RSVCE. https://biblia.com/bible/rsvce/matthew/5/37)");
 aBibles.push("<b><i>“Let your ‘Yes’ mean ‘Yes,’ and your ‘No’ mean ‘No.’ Anything more is from the evil one.”</i></b> (Matthew 5:37 https://bible.usccb.org/bible/matthew/5?37)");
 
+// 2026-02-19 (Master)
+aBibles.push("<b><i>“All good giving and every perfect gift is from above, coming down from the Father of lights, with whom there is no alteration or shadow caused by change.”</i></b> (James 1:17)");
+aBibles.push("<b><i>“If you choose you can keep the commandments, they will save you; if you trust in God, you too shall live;”</i></b> (Sirach 15:15)");
+aBibles.push("<b><i>“It is vain for you to rise early and put off your rest at night. To eat bread earned by hard toil — all this God gives to his beloved in sleep.”</i></b> (Psalms 127:2)");
+    
 // Returns a random integer between min and max
 // Using Math.round() will give you a non-uniform distribution!
 function getRandomInt(min, max) {
